@@ -9,3 +9,55 @@
     border-left: 3px solid #fff;
     padding-left: 10px
 }
+
+body {
+    margin: 0;
+    font-family: 'Kaisei HarunoUmi', serif;
+    color: #efefef;
+    background-color: #6841b2 !important;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+a{
+    color: #fefefe !important;
+}
+
+.btn-primary {
+    --bs-btn-color: #fefefe;
+    --bs-btn-bg: #8754E8;
+    --bs-btn-border-color: #1e1e1e 2px solid;
+    --bs-btn-hover-color: #1e1e1e;
+    --bs-btn-hover-bg: #a284da;
+    border: 5px solid #1e1e1e;
+    --bs-btn-focus-shadow-rgb: 49, 132, 253;
+    --bs-btn-active-color: #fefefe;
+    --bs-btn-active-bg: #8754E8;
+    --bs-btn-active-border-color: #000;
+    --bs-btn-active-shadow: inset 0 3px 5px 0px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #8754E8;
+    --bs-btn-disabled-border-color: #8754E8;
+}
+
+.card {
+    --bs-card-border-color: #8754E8 !important ;
+    --bs-card-border-radius: 5%;
+    --bs-card-cap-padding-y: 1rem;
+    --bs-card-cap-padding-x: 1rem;
+    --bs-card-cap-bg: rgba(var(--bs-body-color-rgb), 0.03);
+    --bs-card-color: #1e1e1e;
+    --bs-card-bg: var(--bs-body-bg);
+    --bs-card-img-overlay-padding: 1rem;
+    --bs-card-group-margin: 0.75rem;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 400px;
+    height: var(--bs-card-height);
+    color: var(--bs-body-color);
+    word-wrap: break-word;
+    background-color: #FFBC36 !important;
+    background-clip: border-box;
+    border: 7px solid var(--bs-card-border-color);
+    border-radius: 5%;
+}
