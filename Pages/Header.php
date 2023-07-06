@@ -15,8 +15,9 @@
     <!--changing title-->
     <title><?= !empty($title) ? $title : "" ?>Adela's art</title>
 </head>
+<body>
 <header class="fixed-top">
-    <img class="profileImg" src="../resources/images/Header/headerIcon.png">
+    <img class="profileImg" src="../Resources/images/Header/headerIcon.png">
     <p>Adela's art</p>
     <nav class="navbar">
         <div class="nav">

@@ -1004,7 +1004,7 @@ progress {
   --bs-gutter-y: 3rem;
 }
 
-@media (min-width: 576px) {
+@media (min-width: 600px) {
   .col-sm {
     flex: 1 0 0%;
   }
@@ -1173,7 +1173,7 @@ progress {
     --bs-gutter-y: 3rem;
   }
 }
-@media (min-width: 768px) {
+@media (min-width: 800px) {
   .col-md {
     flex: 1 0 0%;
   }

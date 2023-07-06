@@ -11,7 +11,7 @@
 
   /**
    * --------------------------------------------------------------------------
-   * Bootstrap dom/data.js
+   * Bootstrap dom/data.JS
    * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
    * --------------------------------------------------------------------------
    */
@@ -59,7 +59,7 @@
 
   /**
    * --------------------------------------------------------------------------
-   * Bootstrap util/index.js
+   * Bootstrap util/index.JS
    * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
    * --------------------------------------------------------------------------
    */
@@ -306,7 +306,7 @@
 
   /**
    * --------------------------------------------------------------------------
-   * Bootstrap dom/event-handler.js
+   * Bootstrap dom/event-handler.JS
    * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
    * --------------------------------------------------------------------------
    */
@@ -527,7 +527,7 @@
 
   /**
    * --------------------------------------------------------------------------
-   * Bootstrap dom/manipulator.js
+   * Bootstrap dom/manipulator.JS
    * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
    * --------------------------------------------------------------------------
    */
@@ -584,7 +584,7 @@
 
   /**
    * --------------------------------------------------------------------------
-   * Bootstrap util/config.js
+   * Bootstrap util/config.JS
    * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
    * --------------------------------------------------------------------------
    */
@@ -636,7 +636,7 @@
 
   /**
    * --------------------------------------------------------------------------
-   * Bootstrap base-component.js
+   * Bootstrap base-component.JS
    * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
    * --------------------------------------------------------------------------
    */
@@ -704,7 +704,7 @@
 
   /**
    * --------------------------------------------------------------------------
-   * Bootstrap dom/selector-engine.js
+   * Bootstrap dom/selector-engine.JS
    * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
    * --------------------------------------------------------------------------
    */
@@ -792,7 +792,7 @@
 
   /**
    * --------------------------------------------------------------------------
-   * Bootstrap util/component-functions.js
+   * Bootstrap util/component-functions.JS
    * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
    * --------------------------------------------------------------------------
    */
@@ -816,7 +816,7 @@
 
   /**
    * --------------------------------------------------------------------------
-   * Bootstrap alert.js
+   * Bootstrap alert.JS
    * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
    * --------------------------------------------------------------------------
    */
@@ -890,7 +890,7 @@
 
   /**
    * --------------------------------------------------------------------------
-   * Bootstrap button.js
+   * Bootstrap button.JS
    * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
    * --------------------------------------------------------------------------
    */
@@ -953,7 +953,7 @@
 
   /**
    * --------------------------------------------------------------------------
-   * Bootstrap util/swipe.js
+   * Bootstrap util/swipe.JS
    * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
    * --------------------------------------------------------------------------
    */
@@ -1072,7 +1072,7 @@
 
   /**
    * --------------------------------------------------------------------------
-   * Bootstrap carousel.js
+   * Bootstrap carousel.JS
    * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
    * --------------------------------------------------------------------------
    */
@@ -1444,7 +1444,7 @@
 
   /**
    * --------------------------------------------------------------------------
-   * Bootstrap collapse.js
+   * Bootstrap collapse.JS
    * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
    * --------------------------------------------------------------------------
    */
@@ -3522,7 +3522,7 @@
 
   /**
    * --------------------------------------------------------------------------
-   * Bootstrap dropdown.js
+   * Bootstrap dropdown.JS
    * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
    * --------------------------------------------------------------------------
    */
@@ -3889,7 +3889,7 @@
 
   /**
    * --------------------------------------------------------------------------
-   * Bootstrap util/backdrop.js
+   * Bootstrap util/backdrop.JS
    * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
    * --------------------------------------------------------------------------
    */
@@ -4013,7 +4013,7 @@
 
   /**
    * --------------------------------------------------------------------------
-   * Bootstrap util/focustrap.js
+   * Bootstrap util/focustrap.JS
    * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
    * --------------------------------------------------------------------------
    */
@@ -4111,7 +4111,7 @@
 
   /**
    * --------------------------------------------------------------------------
-   * Bootstrap util/scrollBar.js
+   * Bootstrap util/scrollBar.JS
    * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
    * --------------------------------------------------------------------------
    */
@@ -4208,7 +4208,7 @@
 
   /**
    * --------------------------------------------------------------------------
-   * Bootstrap modal.js
+   * Bootstrap modal.JS
    * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
    * --------------------------------------------------------------------------
    */
@@ -4512,7 +4512,7 @@
 
   /**
    * --------------------------------------------------------------------------
-   * Bootstrap offcanvas.js
+   * Bootstrap offcanvas.JS
    * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
    * --------------------------------------------------------------------------
    */
@@ -4742,7 +4742,7 @@
 
   /**
    * --------------------------------------------------------------------------
-   * Bootstrap util/sanitizer.js
+   * Bootstrap util/sanitizer.JS
    * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
    * --------------------------------------------------------------------------
    */
@@ -4775,7 +4775,7 @@
     return allowedAttributeList.filter(attributeRegex => attributeRegex instanceof RegExp).some(regex => regex.test(attributeName));
   };
 
-  // js-docs-start allow-list
+  // JS-docs-start allow-list
   const ARIA_ATTRIBUTE_PATTERN = /^aria-[\w-]*$/i;
   const DefaultAllowlist = {
     // Global attributes allowed on any supplied element below.
@@ -4810,7 +4810,7 @@
     u: [],
     ul: []
   };
-  // js-docs-end allow-list
+  // JS-docs-end allow-list
 
   function sanitizeHtml(unsafeHtml, allowList, sanitizeFunction) {
     if (!unsafeHtml.length) {
@@ -4841,7 +4841,7 @@
 
   /**
    * --------------------------------------------------------------------------
-   * Bootstrap util/template-factory.js
+   * Bootstrap util/template-factory.JS
    * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
    * --------------------------------------------------------------------------
    */
@@ -4976,7 +4976,7 @@
 
   /**
    * --------------------------------------------------------------------------
-   * Bootstrap tooltip.js
+   * Bootstrap tooltip.JS
    * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
    * --------------------------------------------------------------------------
    */
@@ -5487,7 +5487,7 @@
 
   /**
    * --------------------------------------------------------------------------
-   * Bootstrap popover.js
+   * Bootstrap popover.JS
    * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
    * --------------------------------------------------------------------------
    */
@@ -5567,7 +5567,7 @@
 
   /**
    * --------------------------------------------------------------------------
-   * Bootstrap scrollspy.js
+   * Bootstrap scrollspy.JS
    * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
    * --------------------------------------------------------------------------
    */
@@ -5826,7 +5826,7 @@
 
   /**
    * --------------------------------------------------------------------------
-   * Bootstrap tab.js
+   * Bootstrap tab.JS
    * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
    * --------------------------------------------------------------------------
    */
@@ -6087,7 +6087,7 @@
 
   /**
    * --------------------------------------------------------------------------
-   * Bootstrap toast.js
+   * Bootstrap toast.JS
    * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
    * --------------------------------------------------------------------------
    */
@@ -6270,7 +6270,7 @@
 
   /**
    * --------------------------------------------------------------------------
-   * Bootstrap index.umd.js
+   * Bootstrap index.umd.JS
    * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
    * --------------------------------------------------------------------------
    */
@@ -6292,4 +6292,4 @@
   return index_umd;
 
 }));
-//# sourceMappingURL=bootstrap.bundle.js.map
+//# sourceMappingURL=bootstrap.bundle.JS.map
