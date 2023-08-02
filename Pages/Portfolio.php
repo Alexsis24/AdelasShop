@@ -15,7 +15,7 @@ $title = "Portfolio";?>
                 <button type="button" class="btn btn-primary active-filter-btn m-2" data-filter = "*">All</button>
                 <button type="button" class="btn btn-primary m-2" data-filter = ".digital">Digital</button>
                 <button type="button" class="btn btn-primary m-2" data-filter = ".drawings">Drawings</button>
-                <button type="button" class="btn btn-primary m-2" data-filter = ".felts">Felt</button>
+                <button type="button" class="btn btn-primary m-2" data-filter = ".felts">Felts</button>
                 <button type="button" class="btn btn-primary m-2" data-filter = ".murals">Murals</button>
                 <button type="button" class="btn btn-primary m-2" data-filter = ".paintings">Paintings</button>
                 <button type="button" class="btn btn-primary m-2" data-filter = ".pins">Pins</button>

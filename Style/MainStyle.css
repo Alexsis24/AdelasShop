@@ -83,8 +83,5 @@ a{
 .bg-body {
     border: 5px solid  #8754E8 !important;
     background-color: #FFBC36 !important;
-    display: inline-flex !important;
     color: #1a1d20;
-    justify-content: center !important;
-    flex-wrap: wrap !important;
 }
