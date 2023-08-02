@@ -11,30 +11,31 @@
     <!--MainStyle-->
     <link rel="stylesheet" href="../Style/headerStyle.css">
     <link rel="stylesheet" href="../Style/MainStyle.css">
+    <link rel="stylesheet" href="../Style/SizingStyle.css">
 
     <!--changing title-->
     <title><?= !empty($title) ? $title : "" ?>Adela's art</title>
 </head>
 <body>
-<header class="fixed-top">
-    <img class="profileImg" src="../Resources/images/Header/headerIcon.png">
+<header class="sticky-sm-top sticky-md-top sticky-lg-top sticky-xl-top">
+<!--<header class="fixed-top">-->
+    <img class="profileImg" alt="ProfileImg" src="../Resources/images/Header/headerIcon.png">
     <p>Adela's art</p>
     <nav class="navbar">
         <div class="nav">
             <ul>
                 <li><a href="Home.php">Home</a></li>
-                <li><a href="Store.php">Shop</a></li>
+                <li><a href="Store.php">Commission me</a></li>
                 <li><a href="Portfolio.php">Portfolio</a></li>
-                <li><a href="">More...</a></li>
             </ul>
-            <!--Shopping basket-->
-
         </div>
-        <div class = "fixed-right">
+
+        <!--Shopping basket for future store-->
+        <!--<div class = "fixed-right">
             <button type="button" class = "btn position-relative">
                 <i class="fa fa-shopping-basket"></i>
                 <span class="position-absolute top-0 start-100 translate-middle badge bg-primary">5</span>
             </button>
-        </div>
+        </div>-->
     </nav>
 </header>

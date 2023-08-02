@@ -12,12 +12,12 @@ $title = "Storepage";?>
                 <p class="col-md-6 fs-4">Art that I sell or have sold and commission prices</p>
             </div>
         </div>
-        <div class="album py-5  " >
+        <div class="py-5 " >
             <div class="Card-column">
                 <div class="row row-cols-sm-1 row-cols-md-2 row-cols-lg-3 g-md-4 g-lg-5 g-xl-3">
                     <div class="col ">
                         <div class="card shadow-sm">
-                            <img class="card-img-top" src="../Resources/images/Prints/foraged%20Magic.png">
+                            <img class="card-img-top" src="../Resources/images/Digital/foraged%20Magic.png">
                             <rect width="100%" height="100%" fill="#55595c"/>
                             <text class="mx-2" x="50%" y="50%" fill="#eceeef" ">Digital art</text>
                             </img>
