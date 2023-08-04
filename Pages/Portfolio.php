@@ -4,240 +4,238 @@ $title = "Portfolio";?>
 
 <!--Selection-->
 <main>
-    <section id="collection">
-    <div class="container mt-1">
-        <div class="title text-center">
-            <h2 class="position-relative d-inline-block">Portfolio</h2>
-        </div>
-
-        <div class="row g-0">
-            <div class="filter-button-group d-flex flex-wrap justify-content-center mt-5">
-                <button type="button" class="btn btn-primary active-filter-btn m-2" data-filter = "*">All</button>
-                <button type="button" class="btn btn-primary m-2" data-filter = ".digital">Digital</button>
-                <button type="button" class="btn btn-primary m-2" data-filter = ".drawings">Drawings</button>
-                <button type="button" class="btn btn-primary m-2" data-filter = ".felts">Felts</button>
-                <button type="button" class="btn btn-primary m-2" data-filter = ".murals">Murals</button>
-                <button type="button" class="btn btn-primary m-2" data-filter = ".paintings">Paintings</button>
-                <button type="button" class="btn btn-primary m-2" data-filter = ".pins">Pins</button>
-                <button type="button" class="btn btn-primary m-2" data-filter = ".stickers">Stickers</button>
+    <div class="title text-center mt-5">
+                <h2 class="position-relative d-inline-block">Portfolio</h2>
             </div>
-
-            <div class="gallery collection-list m-5 row gx-0 gy-1">
-
-                <!--Digital-->
-                <div class="picture bg-body col-md-6 col-lg-4 col-xl-3 p-2 digital">
-                    <div class="collection-img position-relative">
-                        <img class="w-100" src="../Resources/images/SmallerPictures/DigitalS/foragedMagicS.png">
-                    </div>
-                    <div class="text-center fw-bold my-1">
-                        <h3>Foraged Magic</h3>
-                        <p>Digital redrawn version of the painting</p>
-                    </div>
+            <div class="container">
+            <div class="row g-0">
+                <div class="filter-button-group d-flex flex-wrap justify-content-center mt-3">
+                    <button type="button" class="btn btn-primary active-filter-btn m-2" data-filter = "*">All</button>
+                    <button type="button" class="btn btn-primary m-2" data-filter = ".digital">Digital</button>
+                    <button type="button" class="btn btn-primary m-2" data-filter = ".drawings">Drawings</button>
+                    <button type="button" class="btn btn-primary m-2" data-filter = ".felts">Felts</button>
+                    <button type="button" class="btn btn-primary m-2" data-filter = ".murals">Murals</button>
+                    <button type="button" class="btn btn-primary m-2" data-filter = ".paintings">Paintings</button>
+                    <button type="button" class="btn btn-primary m-2" data-filter = ".pins">Pins</button>
+                    <button type="button" class="btn btn-primary m-2" data-filter = ".stickers">Stickers</button>
                 </div>
 
-                <div class="picture bg-body col-md-6 col-lg-4 col-xl-3 p-2 digital">
-                    <div class="collection-img position-relative">
-                        <img class="w-100" src="../Resources/images/SmallerPictures/DigitalS/godlyBeingsSmall.png">
-                    </div>
-                    <div class="text-center fw-bold my-1">
-                        <h3>Godly Beings</h3>
-                        <p>Digital redrawn version of the drawing</p>
-                    </div>
-                </div>
+                <div class="gallery collection-list gx-0 gy-4 d-flex justify-content-center">
 
-                <div class="picture bg-body col-md-6 col-lg-4 col-xl-3 p-2 digital">
-                    <div class="collection-img position-relative">
-                        <img class="w-100" src="../Resources/images/SmallerPictures/DigitalS/strangeNightOutSmall.png">
+                    <!--Digital-->
+                    <div class="picture col-md-6 col-lg-3 col-xl-3 digital">
+                        <div class="collection-img position-relative">
+                            <img class="w-100" src="../Resources/images/SmallerPictures/DigitalS/foragedMagicS.png">
+                        </div>
+                        <div class="text-center fw-bold my-1">
+                            <h3>Foraged Magic</h3>
+                            <p>Digital redrawn version of the painting</p>
+                        </div>
                     </div>
-                    <div class="text-center fw-bold my-1">
-                        <h3>Strange night out</h3>
-                        <p></p>
-                    </div>
-                </div>
 
-                <div class="picture bg-body col-md-6 col-lg-4 col-xl-3 p-2 digital">
-                    <div class="collection-img position-relative">
-                        <img class="w-100" src="../Resources/images/SmallerPictures/DigitalS/strangeCreaturesSmall.png">
+                    <div class="picture col-md-6 col-lg-4 col-xl-3  digital">
+                        <div class="collection-img position-relative">
+                            <img class="w-100" src="../Resources/images/SmallerPictures/DigitalS/godlyBeingsSmall.png">
+                        </div>
+                        <div class="text-center fw-bold my-1">
+                            <h3>Godly Beings</h3>
+                            <p>Digital redrawn version of the drawing</p>
+                        </div>
                     </div>
-                    <div class="text-center fw-bold my-1">
-                        <h3>Strange creatures</h3>
-                        <p></p>
-                    </div>
-                </div>
 
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 digital">
-                    <div class="collection-img position-relative">
-                        <img class="w-100" src="../Resources/images/SmallerPictures/DigitalS/shroomsSmall.png">
+                    <div class="picture col-md-6 col-lg-3 col-xl-3 digital">
+                        <div class="collection-img position-relative">
+                            <img class="w-100" src="../Resources/images/SmallerPictures/DigitalS/strangeNightOutSmall.png">
+                        </div>
+                        <div class="text-center fw-bold my-1">
+                            <h3>Strange night out</h3>
+                            <p></p>
+                        </div>
                     </div>
-                    <div class="text-center fw-bold my-1">
-                        <h3>Magic Mushroom study poster</h3>
-                        <p></p>
-                    </div>
-                </div>
 
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 digital">
-                    <div class="collection-img position-relative">
-                        <img class="w-100" src="../Resources/images/SmallerPictures/DigitalS/memeCatsSmall.png">
+                    <div class="picture col-md-6 col-lg-3 col-xl-3 digital">
+                        <div class="collection-img position-relative">
+                            <img class="w-100" src="../Resources/images/SmallerPictures/DigitalS/strangeCreaturesSmall.png">
+                        </div>
+                        <div class="text-center fw-bold my-1">
+                            <h3>Strange creatures</h3>
+                            <p></p>
+                        </div>
                     </div>
-                    <div class="text-center fw-bold my-1">
-                        <h3>Meme cats</h3>
-                        <p></p>
-                    </div>
-                </div>
 
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 digital">
-                    <div class="collection-img position-relative">
-                        <img class="w-100" src="../Resources/images/SmallerPictures/DigitalS/catJokerSmall.png">
+                    <div class="picture col-md-6 col-lg-3 col-xl-3 digital">
+                        <div class="collection-img position-relative">
+                            <img class="w-100" src="../Resources/images/SmallerPictures/DigitalS/shroomsSmall.png">
+                        </div>
+                        <div class="text-center fw-bold my-1">
+                            <h3>Magic Mushroom study poster</h3>
+                            <p></p>
+                        </div>
                     </div>
-                    <div class="text-center fw-bold my-1">
-                        <h3>Custom card deck designs</h3>
-                        <p></p>
-                    </div>
-                </div>
 
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 digital">
-                    <div class="collection-img position-relative">
-                        <img class="w-100" src="../Resources/images/SmallerPictures/DigitalS/coloringBookSmall.jpg">
+                    <div class="picture col-md-6 col-lg-3 col-xl-3 digital">
+                        <div class="collection-img position-relative">
+                            <img class="w-100" src="../Resources/images/SmallerPictures/DigitalS/memeCatsSmall.png">
+                        </div>
+                        <div class="text-center fw-bold my-1">
+                            <h3>Meme cats</h3>
+                            <p></p>
+                        </div>
                     </div>
-                    <div class="text-center fw-bold my-1">
-                        <h3>Linework original art for colouring book 1</h3>
-                        <p></p>
-                    </div>
-                </div>
 
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 digital">
-                    <div class="collection-img position-relative">
-                        <img class="w-100" src="../Resources/images/SmallerPictures/DigitalS/coloringBookSmall1.jpg">
+                    <div class="picture col-md-6 col-lg-3 col-xl-3 digital">
+                        <div class="collection-img position-relative">
+                            <img class="w-100" src="../Resources/images/SmallerPictures/DigitalS/catJokerSmall.png">
+                        </div>
+                        <div class="text-center fw-bold my-1">
+                            <h3>Custom card deck designs</h3>
+                            <p></p>
+                        </div>
                     </div>
-                    <div class="text-center fw-bold my-1">
-                        <h3>Linework original art for colouring book 2</h3>
-                        <p></p>
-                    </div>
-                </div>
 
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 digital">
-                    <div class="collection-img position-relative">
-                        <img class="w-100" src="../Resources/images/SmallerPictures/DigitalS/coloringBookSmall2.jpg">
+                    <div class="picture col-md-6 col-lg-3 col-xl-3 digital">
+                        <div class="collection-img position-relative">
+                            <img class="w-100" src="../Resources/images/SmallerPictures/DigitalS/coloringBookSmall.jpg">
+                        </div>
+                        <div class="text-center fw-bold my-1">
+                            <h3>Linework original art for colouring book 1</h3>
+                            <p></p>
+                        </div>
                     </div>
-                    <div class="text-center fw-bold my-1">
-                        <h3>Linework original art for colouring book 3</h3>
-                        <p></p>
-                    </div>
-                </div>
 
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 digital">
-                    <div class="collection-img position-relative">
-                        <img class="w-100" src="../Resources/images/SmallerPictures/DigitalS/coloringBookSmall3.jpg">
+                    <div class="picture col-md-6 col-lg-3 col-xl-3 digital">
+                        <div class="collection-img position-relative">
+                            <img class="w-100" src="../Resources/images/SmallerPictures/DigitalS/coloringBookSmall1.jpg">
+                        </div>
+                        <div class="text-center fw-bold my-1">
+                            <h3>Linework original art for colouring book 2</h3>
+                            <p></p>
+                        </div>
                     </div>
-                    <div class="text-center fw-bold my-1">
-                        <h3>Linework original art for colouring book 4</h3>
-                        <p></p>
-                    </div>
-                </div>
 
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 digital">
-                    <div class="collection-img position-relative">
-                        <img class="w-100" src="../Resources/images/SmallerPictures/DigitalS/coloringBookSmall4.jpg">
+                    <div class="picture col-md-6 col-lg-3 col-xl-3 digital">
+                        <div class="collection-img position-relative">
+                            <img class="w-100" src="../Resources/images/SmallerPictures/DigitalS/coloringBookSmall2.jpg">
+                        </div>
+                        <div class="text-center fw-bold my-1">
+                            <h3>Linework original art for colouring book 3</h3>
+                            <p></p>
+                        </div>
                     </div>
-                    <div class="text-center fw-bold my-1">
-                        <h3>Linework original art for colouring book 5</h3>
-                        <p></p>
-                    </div>
-                </div>
 
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 digital">
-                    <div class="collection-img position-relative">
-                        <img class="w-100" src="../Resources/images/SmallerPictures/DigitalS/coloringBookSmall5.jpg">
+                    <div class="picture col-md-6 col-lg-3 col-xl-3 digital">
+                        <div class="collection-img position-relative">
+                            <img class="w-100" src="../Resources/images/SmallerPictures/DigitalS/coloringBookSmall3.jpg">
+                        </div>
+                        <div class="text-center fw-bold my-1">
+                            <h3>Linework original art for colouring book 4</h3>
+                            <p></p>
+                        </div>
                     </div>
-                    <div class="text-center fw-bold my-1">
-                        <h3>Linework original art for colouring book 6</h3>
-                        <p></p>
-                    </div>
-                </div>
 
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 digital">
-                    <div class="collection-img position-relative">
-                        <img class="w-100" src="../Resources/images/SmallerPictures/DigitalS/coloringBookSmall6.jpg">
+                    <div class="picture col-md-6 col-lg-3 col-xl-3 digital">
+                        <div class="collection-img position-relative">
+                            <img class="w-100" src="../Resources/images/SmallerPictures/DigitalS/coloringBookSmall4.jpg">
+                        </div>
+                        <div class="text-center fw-bold my-1">
+                            <h3>Linework original art for colouring book 5</h3>
+                            <p></p>
+                        </div>
                     </div>
-                    <div class="text-center fw-bold my-1">
-                        <h3>Linework original art for colouring book 7</h3>
-                        <p></p>
-                    </div>
-                </div>
 
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 digital">
-                    <div class="collection-img position-relative">
-                        <img class="w-100" src="../Resources/images/SmallerPictures/DigitalS/coloringBookSmall7.jpg">
+                    <div class="picture col-md-6 col-lg-3 col-xl-3 digital">
+                        <div class="collection-img position-relative">
+                            <img class="w-100" src="../Resources/images/SmallerPictures/DigitalS/coloringBookSmall5.jpg">
+                        </div>
+                        <div class="text-center fw-bold my-1">
+                            <h3>Linework original art for colouring book 6</h3>
+                            <p></p>
+                        </div>
                     </div>
-                    <div class="text-center fw-bold my-1">
-                        <h3>Linework original art for colouring book 8</h3>
-                        <p></p>
-                    </div>
-                </div>
 
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 digital">
-                    <div class="collection-img position-relative">
-                        <img class="w-100" src="../Resources/images/SmallerPictures/DigitalS/coloringBookSmall8.jpg">
+                    <div class="picture col-md-6 col-lg-3 col-xl-3 digital">
+                        <div class="collection-img position-relative">
+                            <img class="w-100" src="../Resources/images/SmallerPictures/DigitalS/coloringBookSmall6.jpg">
+                        </div>
+                        <div class="text-center fw-bold my-1">
+                            <h3>Linework original art for colouring book 7</h3>
+                            <p></p>
+                        </div>
                     </div>
-                    <div class="text-center fw-bold my-1">
-                        <h3>Linework original art for colouring book 9</h3>
-                        <p></p>
-                    </div>
-                </div>
 
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 digital">
-                    <div class="collection-img position-relative">
-                        <img class="w-100" src="../Resources/images/SmallerPictures/DigitalS/coloringBookSmall9.jpg">
+                    <div class="picture col-md-6 col-lg-3 col-xl-3 digital">
+                        <div class="collection-img position-relative">
+                            <img class="w-100" src="../Resources/images/SmallerPictures/DigitalS/coloringBookSmall7.jpg">
+                        </div>
+                        <div class="text-center fw-bold my-1">
+                            <h3>Linework original art for colouring book 8</h3>
+                            <p></p>
+                        </div>
                     </div>
-                    <div class="text-center fw-bold my-1">
-                        <h3>Linework original art for colouring book 10</h3>
-                        <p></p>
-                    </div>
-                </div>
 
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 digital">
-                    <div class="collection-img position-relative">
-                        <img class="w-100" src="../Resources/images/SmallerPictures/DigitalS/OCComSmall.png">
+                    <div class="picture col-md-6 col-lg-3 col-xl-3 digital">
+                        <div class="collection-img position-relative">
+                            <img class="w-100" src="../Resources/images/SmallerPictures/DigitalS/coloringBookSmall8.jpg">
+                        </div>
+                        <div class="text-center fw-bold my-1">
+                            <h3>Linework original art for colouring book 9</h3>
+                            <p></p>
+                        </div>
                     </div>
-                    <div class="text-center fw-bold my-1">
-                        <h3>Comissioned artwork of oc character</h3>
-                        <p></p>
-                    </div>
-                </div>
 
-                <!--Drawings-->
-                <div class = "bg-body col-md-6 col-lg-4 col-xl-3 p-2 drawings">
-                    <div class = "collection-img position-relative">
-                        <img class="w-100" src="../Resources/images/SmallerPictures/DrawingS/godlyBeingsOldSmall.png">
+                    <div class="picture col-md-6 col-lg-3 col-xl-3 digital">
+                        <div class="collection-img position-relative">
+                            <img class="w-100" src="../Resources/images/SmallerPictures/DigitalS/coloringBookSmall9.jpg">
+                        </div>
+                        <div class="text-center fw-bold my-1">
+                            <h3>Linework original art for colouring book 10</h3>
+                            <p></p>
+                        </div>
                     </div>
-                    <div class="text-center fw-bold my-1">
-                        <h3>Godly being</h3>
-                        <p>Markers and alcohol markers drawing</p>
-                    </div>
-                </div>
 
-                <div class = "bg-body col-md-6 col-lg-4 col-xl-3 p-2 drawings">
-                    <div class = "collection-img position-relative">
-                        <img class="w-100" src="../Resources/images/SmallerPictures/DrawingS/fantasyPortraitSmall.jpg">
+                    <div class="picture col-md-6 col-lg-3 col-xl-3 digital">
+                        <div class="collection-img position-relative">
+                            <img class="w-100" src="../Resources/images/SmallerPictures/DigitalS/OCComSmall.png">
+                        </div>
+                        <div class="text-center fw-bold my-1">
+                            <h3>Comissioned artwork of oc character</h3>
+                            <p></p>
+                        </div>
                     </div>
-                    <div class="text-center fw-bold my-1">
-                        <h3>Fantasy Portrait</h3>
-                        <p>Markers and alcohol markers drawing</p>
-                    </div>
-                </div>
 
-                <div class = "bg-body col-md-6 col-lg-4 col-xl-3 p-2 drawings">
-                    <div class = "collection-img position-relative">
-                        <img class="w-100" src="../Resources/images/SmallerPictures/DrawingS/techThemeComSmall.jpg">
+                    <!--Drawings-->
+                    <div class = "picture col-md-6 col-lg-3 col-xl-3 drawings">
+                        <div class = "collection-img position-relative">
+                            <img class="w-100" src="../Resources/images/SmallerPictures/DrawingS/godlyBeingsOldSmall.png">
+                        </div>
+                        <div class="text-center fw-bold my-1">
+                            <h3>Godly being</h3>
+                            <p>Markers and alcohol markers drawing</p>
+                        </div>
                     </div>
-                    <div class="text-center fw-bold my-1"
+
+                    <div class = "picture col-md-6 col-lg-3 col-xl-3 drawings">
+                        <div class = "collection-img position-relative">
+                            <img class="w-100" src="../Resources/images/SmallerPictures/DrawingS/fantasyPortraitSmall.jpg">
+                        </div>
+                        <div class="text-center fw-bold my-1">
+                            <h3>Fantasy Portrait</h3>
+                            <p>Markers and alcohol markers drawing</p>
+                        </div>
+                    </div>
+
+                    <div class = "picture col-md-6 col-lg-3 col-xl-3 drawings">
+                        <div class = "collection-img position-relative">
+                            <img class="w-100" src="../Resources/images/SmallerPictures/DrawingS/techThemeComSmall.jpg">
+                        </div>
+                        <div class="text-center fw-bold my-1"
                         <h3>Tech themed commission</h3>
                         <p>Markers and alcohol markers drawing</p>
                     </div>
                 </div>
 
                 <!--Felt-->
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 felts">
+                <div class="picture col-md-6 col-lg-3 col-xl-3 felts">
                     <div class="collection-img position-relative">
                         <img class="w-100" src="../Resources/images/SmallerPictures/FeltS/feltOctopieSmall.jpg">
                     </div>
@@ -247,7 +245,7 @@ $title = "Portfolio";?>
                     </div>
                 </div>
 
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 felts">
+                <div class="picture col-md-6 col-lg-3 col-xl-3 felts">
                     <div class="collection-img position-relative">
                         <img class="w-100" src="../Resources/images/SmallerPictures/FeltS/cactiSmall.jpg">
                     </div>
@@ -257,7 +255,7 @@ $title = "Portfolio";?>
                     </div>
                 </div>
 
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 felts">
+                <div class="picture col-md-6 col-lg-3 col-xl-3 felts">
                     <div class="collection-img position-relative">
                         <img class="w-100" src="../Resources/images/SmallerPictures/FeltS/mushroomAssortmentSmall1.jpg">
                     </div>
@@ -267,7 +265,7 @@ $title = "Portfolio";?>
                     </div>
                 </div>
 
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 felts">
+                <div class="picture col-md-6 col-lg-3 col-xl-3 felts">
                     <div class="collection-img position-relative">
                         <img class="w-100" src="../Resources/images/SmallerPictures/FeltS/mushroomAssortmentSmall2.jpg">
                     </div>
@@ -277,7 +275,7 @@ $title = "Portfolio";?>
                     </div>
                 </div>
 
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 felts">
+                <div class="picture col-md-6 col-lg-3 col-xl-3 felts">
                     <div class="collection-img position-relative">
                         <img class="w-100" src="../Resources/images/SmallerPictures/FeltS/tabletCoverSmall.jpg">
                     </div>
@@ -287,7 +285,7 @@ $title = "Portfolio";?>
                     </div>
                 </div>
 
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 felts">
+                <div class="picture col-md-6 col-lg-3 col-xl-3 felts">
                     <div class="collection-img position-relative">
                         <img class="w-100" src="../Resources/images/SmallerPictures/FeltS/feltDollSmall.jpg">
                     </div>
@@ -297,7 +295,7 @@ $title = "Portfolio";?>
                     </div>
                 </div>
 
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 felts">
+                <div class="picture col-md-6 col-lg-3 col-xl-3 felts">
                     <div class="collection-img position-relative">
                         <img class="w-100" src="../Resources/images/SmallerPictures/FeltS/catWizardSmall.jpg">
                     </div>
@@ -307,7 +305,7 @@ $title = "Portfolio";?>
                     </div>
                 </div>
 
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 felts">
+                <div class="picture col-md-6 col-lg-3 col-xl-3 felts">
                     <div class="collection-img position-relative">
                         <img class="w-100" src="../Resources/images/SmallerPictures/FeltS/CowOnesieSmall.jpg">
                     </div>
@@ -318,7 +316,7 @@ $title = "Portfolio";?>
                 </div>
 
                 <!--Murals-->
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 murals">
+                <div class="picture col-md-6 col-lg-3 col-xl-3 murals">
                     <div class="collection-img position-relative">
                         <img class="w-100" src="../Resources/images/SmallerPictures/MuralS/apolloSmall.jpg">
                     </div>
@@ -328,7 +326,7 @@ $title = "Portfolio";?>
                     </div>
                 </div>
 
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 murals">
+                <div class="picture col-md-6 col-lg-3 col-xl-3 murals">
                     <div class="collection-img position-relative">
                         <img class="w-100" src="../Resources/images/SmallerPictures/MuralS/maskedWomanSmall.jpg">
                     </div>
@@ -338,7 +336,7 @@ $title = "Portfolio";?>
                     </div>
                 </div>
 
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 murals">
+                <div class="picture col-md-6 col-lg-3 col-xl-3 murals">
                     <div class="collection-img position-relative">
                         <img class="w-100" src="../Resources/images/SmallerPictures/MuralS/legendsOfNorwaySmall.jpg">
                     </div>
@@ -348,7 +346,7 @@ $title = "Portfolio";?>
                     </div>
                 </div>
 
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 murals">
+                <div class="picture col-md-6 col-lg-3 col-xl-3 murals">
                     <div class="collection-img position-relative">
                         <img class="w-100" src="../Resources/images/SmallerPictures/MuralS/legendsOfNorwayPart2Small.jpg">
                     </div>
@@ -358,7 +356,7 @@ $title = "Portfolio";?>
                     </div>
                 </div>
 
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 murals">
+                <div class="picture col-md-6 col-lg-3 col-xl-3 murals">
                     <div class="collection-img position-relative">
                         <img class="w-100" src="../Resources/images/SmallerPictures/MuralS/mysticAncientEgyptSmall.jpg">
                     </div>
@@ -368,7 +366,7 @@ $title = "Portfolio";?>
                     </div>
                 </div>
 
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 murals">
+                <div class="picture col-md-6 col-lg-3 col-xl-3 murals">
                     <div class="collection-img position-relative">
                         <img class="w-100" src="../Resources/images/SmallerPictures/MuralS/grimmBrothersSmall.jpg">
                     </div>
@@ -378,7 +376,7 @@ $title = "Portfolio";?>
                     </div>
                 </div>
 
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 murals">
+                <div class="picture col-md-6 col-lg-3 col-xl-3 murals">
                     <div class="collection-img position-relative">
                         <img class="w-100" src="../Resources/images/SmallerPictures/MuralS/eViiraltSmall.jpg">
                     </div>
@@ -388,7 +386,7 @@ $title = "Portfolio";?>
                     </div>
                 </div>
 
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 murals">
+                <div class="picture col-md-6 col-lg-3 col-xl-3 murals">
                     <div class="collection-img position-relative">
                         <img class="w-100" src="../Resources/images/SmallerPictures/MuralS/hendrixSmall.jpg">
                     </div>
@@ -400,7 +398,7 @@ $title = "Portfolio";?>
                 </div>
 
                 <!--Paintings-->
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 paintings">
+                <div class="picture col-md-6 col-lg-3 col-xl-3 paintings">
                     <div class="collection-img position-relative">
                         <img class="w-100" src="../Resources/images/SmallerPictures/PaintingS/foragedMagicOldSmall.jpg">
                     </div>
@@ -410,7 +408,7 @@ $title = "Portfolio";?>
                     </div>
                 </div>
 
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 paintings">
+                <div class="picture col-md-6 col-lg-3 col-xl-3 paintings">
                     <div class="collection-img position-relative">
                         <img class="w-100" src="../Resources/images/SmallerPictures/PaintingS/cactiDesertSmall.jpg">
                     </div>
@@ -420,7 +418,7 @@ $title = "Portfolio";?>
                     </div>
                 </div>
 
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 paintings">
+                <div class="picture col-md-6 col-lg-3 col-xl-3 paintings">
                     <div class="collection-img position-relative">
                         <img class="w-100" src="../Resources/images/SmallerPictures/PaintingS/mushroomForestSmall.jpg">
                     </div>
@@ -430,7 +428,7 @@ $title = "Portfolio";?>
                     </div>
                 </div>
 
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 paintings">
+                <div class="picture col-md-6 col-lg-3 col-xl-3 paintings">
                     <div class="collection-img position-relative">
                         <img class="w-100" src="../Resources/images/SmallerPictures/PaintingS/paperPlaneGirlSmall.jpg">
                     </div>
@@ -440,7 +438,7 @@ $title = "Portfolio";?>
                     </div>
                 </div>
 
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 paintings">
+                <div class="picture col-md-6 col-lg-3 col-xl-3 paintings">
                     <div class="collection-img position-relative">
                         <img class="w-100" src="../Resources/images/SmallerPictures/PaintingS/spacecatSmall.jpg">
                     </div>
@@ -451,7 +449,7 @@ $title = "Portfolio";?>
                 </div>
 
                 <!--Pins-->
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 pins">
+                <div class="picture col-md-6 col-lg-3 col-xl-3 pins">
                     <div class="collection-img position-relative">
                         <img class="w-100" src="../Resources/images/SmallerPictures/PinsS/mushroomPinSmall.jpg">
                     </div>
@@ -461,7 +459,7 @@ $title = "Portfolio";?>
                     </div>
                 </div>
 
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 pins">
+                <div class="picture col-md-6 col-lg-3 col-xl-3 pins">
                     <div class="collection-img position-relative">
                         <img class="w-100" src="../Resources/images/SmallerPictures/PinsS/feltCatPinSmall.jpg">
                     </div>
@@ -471,7 +469,7 @@ $title = "Portfolio";?>
                     </div>
                 </div>
 
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 pins">
+                <div class="picture col-md-6 col-lg-3 col-xl-3 pins">
                     <div class="collection-img position-relative">
                         <img class="w-100" src="../Resources/images/SmallerPictures/PinsS/yinYangCatsPinSmall.jpg">
                     </div>
@@ -481,7 +479,7 @@ $title = "Portfolio";?>
                     </div>
                 </div>
 
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 pins">
+                <div class="picture col-md-6 col-lg-3 col-xl-3 pins">
                     <div class="collection-img position-relative">
                         <img class="w-100" src="../Resources/images/SmallerPictures/PinsS/jokerCatPinSmall.jpg">
                     </div>
@@ -491,7 +489,7 @@ $title = "Portfolio";?>
                     </div>
                 </div>
 
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 pins">
+                <div class="picture col-md-6 col-lg-3 col-xl-3 pins">
                     <div class="collection-img position-relative">
                         <img class="w-100" src="../Resources/images/SmallerPictures/PinsS/petPortraitPinSmall.jpg">
                     </div>
@@ -501,7 +499,7 @@ $title = "Portfolio";?>
                     </div>
                 </div>
 
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 pins">
+                <div class="picture col-md-6 col-lg-3 col-xl-3 pins">
                     <div class="collection-img position-relative">
                         <img class="w-100" src="../Resources/images/SmallerPictures/PinsS/notWeirdPinSmall.jpg">
                     </div>
@@ -512,7 +510,7 @@ $title = "Portfolio";?>
                 </div>
 
                 <!--Stickers-->
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 stickers">
+                <div class="picture col-md-6 col-lg-3 col-xl-3 stickers">
                     <div class="collection-img position-relative">
                         <img class="w-100" src="../Resources/images/SmallerPictures/StickersS/stickypileSmall.jpg">
                     </div>
@@ -525,9 +523,8 @@ $title = "Portfolio";?>
             </div>
 
         </div>
-    </div>
-</section>
-<!--End of selection-->
+        </div>
+    <!--End of selection-->
 </main>
 <?php
 require ("Footer.php");?>

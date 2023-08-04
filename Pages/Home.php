@@ -7,19 +7,17 @@ $title = "Homepage";?>
     <section>
         <div class="py-5">
             <div class="Card-column">
-                <div class="row row-cols-xs-1 row-cols-sm-2 row-cols-md-2 row-cols-lg-3 g-md-4 g-lg-5 g-xl-3 mx-sm-auto mx-md-5 mx-lg-1">
-                    <div class="col-auto d-flex justify-content-center">
+                <div class="row row-cols-xs-1 row-cols-sm-2 row-cols-md-2 row-cols-lg-3 row-cols-xxl-4 g-md-4 g-lg-5 g-xl-3 mx-sm-auto mx-md-5 mx-lg-1">
+                    <div class="col d-flex justify-content-center">
                         <div class="card shadow-sm">
                             <img class="card-img-top" alt="Foraged Magic" src="../Resources/images/SmallerPictures/DigitalS/foragedMagicS.png">
-                                <rect fill="#55595c"/>
-                                <text class="mx-2" x="50%" y="50%" fill="#eceeef" ">Digital art</text>
-                            </img>
                             <div class="card-body">
+                                <h3 class="card-title">Digital art</h3>
                                 <p class="card-text">Foraged Magic digital version</p>
                                 <div class="d-flex justify-content-between align-items-center">
                                     <div class="btn-group">
-                                        <button type="button" class="btn btn-sm" data-bs-toggle="modal" data-bs-target="#digitalModal"> View</button>
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">More art like this</button>
+                                        <button type="button" class="btn btn-primary btn-primary btn-sm" data-bs-toggle="modal" data-bs-target="#digitalModal"> View</button>
+                                        <button type="button" class="btn btn-primary btn-sm ">More art like this</button>
                                     </div>
                                 </div>
                             </div>
@@ -28,17 +26,13 @@ $title = "Homepage";?>
 
                     <div class="col d-flex justify-content-center">
                         <div class="card shadow-sm">
-                            <img class="card-img-top" alt="Godly Beings" src="../Resources/images/SmallerPictures/DrawingS/godlyBeingsOldSmall.png">
-                            <rect fill="#55595c"/>
-                            <text class="mx-2" x="50%" y="50%" fill="#eceeef" dy=".3em">Drawings</text>
-                            </img>
-                            <div class="card-body">
+                            <img class="card-img-top" alt="Godly Beings" src="../Resources/images/SmallerPictures/DrawingS/godlyBeingsOldSmall.png">                            <div class="card-body">
+                                <h3 class="card-title">Drawings</h3>
                                 <p class="card-text">Godly Beings</p>
-                                <p class="card-text">Markers and alcohol markers</p>
                                 <div class="d-flex justify-content-between align-items-center">
                                     <div class="btn-group">
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">More art like this</button>
+                                        <button type="button" class="btn btn-primary btn-sm ">View</button>
+                                        <button type="button" class="btn btn-primary btn-sm ">More art like this</button>
                                     </div>
                                 </div>
                             </div>
@@ -48,15 +42,13 @@ $title = "Homepage";?>
                     <div class="col d-flex justify-content-center">
                         <div class="card shadow-sm">
                             <img class="card-img-top" alt="Apollo" src="../Resources/images/SmallerPictures/MuralS/apolloSmall.jpg">
-                                <rect fill="#55595c"/>
-                                <text class="mx-2" x="50%" y="50%" fill="#eceeef" dy=".3em">Murals</text>
-                            </img>
                             <div class="card-body">
+                                <h3 class="card-title">Murals</h3>
                                 <p class="card-text">Apollo</p>
                                 <div class="d-flex justify-content-between align-items-center">
                                     <div class="btn-group">
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">More art like this</button>
+                                        <button type="button" class="btn btn-primary btn-sm ">View</button>
+                                        <button type="button" class="btn btn-primary btn-sm ">More art like this</button>
                                     </div>
                                 </div>
                             </div>
@@ -66,15 +58,13 @@ $title = "Homepage";?>
                     <div class="col d-flex justify-content-center">
                         <div class="card shadow-sm">
                             <img class="card-img-top" alt="Octopie" src="../Resources/images/SmallerPictures/FeltS/feltOctopieSmall.jpg">
-                                <rect fill="#55595c"/>
-                                <text class="mx-2" x="50%" y="50%" fill="#eceeef" dy=".3em">Felt plushies</text>
-                            </img>
                             <div class="card-body">
+                                <h3 class="card-title">Felt plushies</h3>
                                 <p class="card-text">Felt Octopus plush</p>
                                 <div class="d-flex justify-content-between align-items-center">
                                     <div class="btn-group">
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">More art like this</button>
+                                        <button type="button" class="btn btn-primary btn-sm ">View</button>
+                                        <button type="button" class="btn btn-primary btn-sm ">More art like this</button>
                                     </div>
                                 </div>
                             </div>
@@ -84,15 +74,13 @@ $title = "Homepage";?>
                     <div class="col d-flex justify-content-center">
                         <div class="card shadow-sm">
                             <img class="card-img-top" alt="Felt cat pin" src="../Resources/images/SmallerPictures/PinsS/feltCatPinSmall.jpg">
-                                <rect fill="#55595c"/>
-                                <text class="mx-2" x="50%" y="50%" fill="#eceeef" dy=".3em">Pins</text>
-                            </img>
                             <div class="card-body">
+                                <h3 class="card-title">Pins</h3>
                                 <p class="card-text">Felt pin of a cat</p>
                                 <div class="d-flex justify-content-between align-items-center">
                                     <div class="btn-group">
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">More art like this</button>
+                                        <button type="button" class="btn btn-primary btn-sm ">View</button>
+                                        <button type="button" class="btn btn-primary btn-sm ">More art like this</button>
                                     </div>
                                 </div>
                             </div>
@@ -102,15 +90,13 @@ $title = "Homepage";?>
                     <div class="col d-flex justify-content-center">
                         <div class="card shadow-sm">
                             <img class="card-img-top" alt="Stikers" src="../Resources/images/SmallerPictures/StickersS/stickypileSmall.jpg">
-                            <rect fill="#55595c"/>
-                            <text class="mx-2" x="50%" y="50%" fill="#eceeef">Stickers</text>
-                            </img>
                             <div class="card-body">
+                                <h3 class="card-title">Stickers</h3>
                                 <p class="card-text">Pile of Cat stickers</p>
                                 <div class="d-flex justify-content-between align-items-center">
                                     <div class="btn-group">
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">More art like this</button>
+                                        <button type="button" class="btn btn-primary btn-sm ">View</button>
+                                        <button type="button" class="btn btn-primary btn-sm ">More art like this</button>
                                     </div>
                                 </div>
                             </div>
@@ -147,7 +133,7 @@ $title = "Homepage";?>
                             <div class="col-sm-4">
                                 <ul class="row">
                                     <li class="btn btn-primary position-relative">
-                                        <a class="btn-link" style="text-decoration: none;" href="https://www.instagram.com/adxla.kurxits/"><img width="30px" alt="Instagram" src="../Resources/icons/icons8-instagram-64.png"/>Instagram</a>
+                                        <a class="btn-link"  href="https://www.instagram.com/adxla.kurxits/"><img width="30px" alt="Instagram" src="../Resources/icons/icons8-instagram-64.png"/>Instagram</a>
                                     </li>
                                     <li class="btn btn-primary position-relative">
                                         <p><img width="25px" alt="Email" src="../Resources/icons/icons8-email-64.png"/>kurvitsadela@gmail.com</p>

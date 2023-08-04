@@ -70,6 +70,13 @@ a{
     border-radius: 5% !important;
     column-break-inside: avoid !important; /* lessens a little with overlapping cards */
 }
+.card-body button{
+    border: #fff 2px solid !important;
+    color: #fff !important;
+    background-color: #78C4BC !important;
+    border-radius: 5% !important;
+
+}
 
 .filter-button-group .btn:hover{
     color: #fff !important;
@@ -80,20 +87,15 @@ a{
     display: block;
 }
 
-.bg-body {
+.picture{
+    border-radius: 5% !important;
     border: 5px solid  #8754E8 !important;
     background-color: #FFBC36 !important;
     color: #1a1d20;
 }
 
-.picture{
-    margin: 4px;
+.container{
+    max-width: 1400px !important;
 }
 
-.gallery{
-    display: flex;
-    cloumn-width: 1fr 4fr;
-    justify-content: center;
-    text-align: center;
-}
 

@@ -25,7 +25,7 @@
         <div class="nav">
             <ul>
                 <li><a href="Home.php">Home</a></li>
-                <li><a href="Store.php">Commission me</a></li>
+                <li><a href="">Commission me</a></li>
                 <li><a href="Portfolio.php">Portfolio</a></li>
             </ul>
         </div>
