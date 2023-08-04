@@ -85,3 +85,15 @@ a{
     background-color: #FFBC36 !important;
     color: #1a1d20;
 }
+
+.picture{
+    margin: 4px;
+}
+
+.gallery{
+    display: flex;
+    cloumn-width: 1fr 4fr;
+    justify-content: center;
+    text-align: center;
+}
+

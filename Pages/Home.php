@@ -18,7 +18,7 @@ $title = "Homepage";?>
                                 <p class="card-text">Foraged Magic digital version</p>
                                 <div class="d-flex justify-content-between align-items-center">
                                     <div class="btn-group">
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
+                                        <button type="button" class="btn btn-sm" data-bs-toggle="modal" data-bs-target="#digitalModal"> View</button>
                                         <button type="button" class="btn btn-sm btn-outline-secondary">More art like this</button>
                                     </div>
                                 </div>
@@ -157,6 +157,15 @@ $title = "Homepage";?>
                         </div>
                     </div>
                 </div>
+
+        <!-- The Modal -->
+        <div class="modal" id="digitalModal">
+            
+        </div>
+
+        <a href="#!" data-mdb-toggle="modal" data-mdb-target="#exampleModal1">
+            <div class="mask" style="background-color: #1e1e1e"></div>
+        </a>
     </section>
 </main>
 <?php

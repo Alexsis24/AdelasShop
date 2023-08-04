@@ -22,10 +22,10 @@ $title = "Portfolio";?>
                 <button type="button" class="btn btn-primary m-2" data-filter = ".stickers">Stickers</button>
             </div>
 
-            <div class="collection-list m-5 row gx-0 gy-3">
+            <div class="gallery collection-list m-5 row gx-0 gy-1">
 
                 <!--Digital-->
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 digital">
+                <div class="picture bg-body col-md-6 col-lg-4 col-xl-3 p-2 digital">
                     <div class="collection-img position-relative">
                         <img class="w-100" src="../Resources/images/SmallerPictures/DigitalS/foragedMagicS.png">
                     </div>
@@ -35,7 +35,7 @@ $title = "Portfolio";?>
                     </div>
                 </div>
 
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 digital">
+                <div class="picture bg-body col-md-6 col-lg-4 col-xl-3 p-2 digital">
                     <div class="collection-img position-relative">
                         <img class="w-100" src="../Resources/images/SmallerPictures/DigitalS/godlyBeingsSmall.png">
                     </div>
@@ -45,7 +45,7 @@ $title = "Portfolio";?>
                     </div>
                 </div>
 
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 digital">
+                <div class="picture bg-body col-md-6 col-lg-4 col-xl-3 p-2 digital">
                     <div class="collection-img position-relative">
                         <img class="w-100" src="../Resources/images/SmallerPictures/DigitalS/strangeNightOutSmall.png">
                     </div>
@@ -55,7 +55,7 @@ $title = "Portfolio";?>
                     </div>
                 </div>
 
-                <div class="bg-body col-md-6 col-lg-4 col-xl-3 p-2 digital">
+                <div class="picture bg-body col-md-6 col-lg-4 col-xl-3 p-2 digital">
                     <div class="collection-img position-relative">
                         <img class="w-100" src="../Resources/images/SmallerPictures/DigitalS/strangeCreaturesSmall.png">
                     </div>
