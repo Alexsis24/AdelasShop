@@ -12,6 +12,8 @@
     <link rel="stylesheet" href="../Style/headerStyle.css">
     <link rel="stylesheet" href="../Style/MainStyle.css">
     <link rel="stylesheet" href="../Style/SizingStyle.css">
+    <!--Magnific Popup-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.css" integrity="sha512-WEQNv9d3+sqyHjrqUZobDhFARZDko2wpWdfcpv44lsypsSuMO0kHGd3MQ8rrsBn/Qa39VojphdU6CMkpJUmDVw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
     <!--changing title-->
     <title><?= !empty($title) ? $title : "" ?>Adela's art</title>
