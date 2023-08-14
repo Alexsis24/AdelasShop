@@ -7,12 +7,6 @@
     transition: all .2s cubic-bezier(.34,1.12,.68,1.31);
 }
 
-.active-filter-btn{
-    background-color: lightcoral !important;
-    color: #1a1d20 !important;
-    border-color: #111 !important;
-}
-
 .title h2{
     border-left: 3px solid #fff !important;
     padding-left: 10px !important;
@@ -21,104 +15,239 @@
 body {
     font-family: 'Kaisei HarunoUmi', serif !important;
     color: #efefef !important;
-    background-color: #563693 !important;
+    background-color: #333 !important;
     -webkit-text-size-adjust: 100% !important;
-}
-
-.row{
-    display: flex !important;
-    justify-content: center !important;
-    flex-wrap:wrap !important;
 }
 
 a{
     color: #fefefe !important;
 }
 
-.btn-primary {
-    --bs-btn-color: #fefefe !important;
-    --bs-btn-bg: #8754E8!important;
-    --bs-btn-border-color: #1e1e1e 2px solid !important;
-    --bs-btn-hover-color: #1e1e1e !important;
-    --bs-btn-hover-bg: #a284da !important;
-    border: 5px solid #1e1e1e !important;
-    --bs-btn-focus-shadow-rgb: 49, 132, 253 !important;
-    --bs-btn-active-color: #fefefe !important;
-    --bs-btn-active-bg: #8754E8 !important;
-    --bs-btn-active-border-color: #000 !important;
-    --bs-btn-active-shadow: inset 0 3px 5px 0px rgba(0, 0, 0, 0.125) !important;
-    --bs-btn-disabled-color: #fff !important;
-    --bs-btn-disabled-bg: #8754E8 !important;
-    --bs-btn-disabled-border-color: #8754E8 !important;
-}
-
-.card {
-    --bs-card-border-color: #8754E8 !important ;
-    --bs-card-border-radius: 5% !important;
-    --bs-card-cap-padding-y: 1rem !important;
-    --bs-card-cap-padding-x: 1rem !important;
-    --bs-card-cap-bg: rgba(var(--bs-body-color-rgb), 0.03) !important;
-    --bs-card-color: #1e1e1e !important;
-    --bs-card-title-color: #1e1e1e !important;
-    --bs-card-subtitle-color: #1e1e1e !important;
-    --bs-card-bg: #8754E8 !important;
-    --bs-card-img-overlay-padding: 2rem !important;
-    --bs-card-group-margin: 1px !important;
-    position: relative !important;
-    flex-wrap: wrap !important;
-    min-width: 280px !important;
-    max-width: 380px !important;
-    height: var(--bs-card-height);
-    color: #1e1e1e !important;
-    word-wrap: break-word !important;
-    background-color: #FFBC36 !important;
-    background-clip: border-box;
-    border: 7px solid var(--bs-card-border-color) !important;
-    border-radius: 5% !important;
-    column-break-inside: avoid !important; /* lessens a little with overlapping cards */
-}
-
-.card-body button{
-    border: #fff 2px solid !important;
-    color: #000 !important;
-    background-color: #78C4BC !important;
-    border-radius: 5% !important;
-
-}
-
-.filter-button-group .btn:hover{
-    color: #fff !important;
-}
-
-.jumbotron{
-    background-color: #78C4BC;
-    color: #1a1d20;
+.intro-container{
     display: block;
+    overflow: hidden;
+    position: relative;
+    background-color: #563693;
+    margin-top: 15px;
+    padding: 0px 10px 5px 0px;
 }
 
-.picture{
-    border-radius: 5% !important;
-    border: 5px solid  #0ac5a0 !important;
-    background-color: #78C4BC !important;
+.intro-container .intro-bg{
+    opacity: 40%;
+    position: absolute;
+    width: 100%;
+}
+
+.intro-container .intro{
+    position: relative;
+    padding: 15px 10px 5px 20px;
+}
+.intro-container .profile-image{
+    width: 100%;
+}
+.intro h1{
+    margin-bottom: 20px;
+}
+
+/*Categories*/
+.section{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.gallery-title{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    text-align: center;
+    background-image: linear-gradient(#563693, #8754E8);
+}
+
+.art-category{
+    float: left;
+    width: 100%;
+    background-color: #8754E8;
+    border: #563693 8px solid;
+    border-radius: 10px ;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.category-image{
+    overflow: hidden;
+    margin-bottom: 0px;
+    position: relative;
+}
+
+.category-image img{
+    border-radius: 3px;
+    width: 100%;
+}
+
+.img-responsive{
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.art-category-description{
+    float:left;
+    width:100%;
+    text-align: left;
+    padding: 20px;
     color: #1a1d20;
-   
 }
 
-.picture img{
+.art-category-description h4{
+    text-transform: capitalize;
+    font-family: 'Kaisei HarunoUmi';
+    font-size: 24px;
+    margin-bottom: 10px;
+    font-weight: bolder;
+    color: #f4fff3;
+}
+
+.art-category-description p{
+    font-family: 'Kaisei HarunoUmi';
+    font-weight: 700;
+}
+
+.art-categories-btn{
+    border: #1e1e1e 2px solid !important;
+    color: #1e1e1e !important;
+    background-color: #ffbc36 !important;
     border-radius: 5% !important;
+    padding: 5px 10px 5px 10px;
+    margin: 5px 5px 0px 0px;
+    font-weight: 700;
+
 }
 
-.portfolio{
+
+/*About section*/
+.about-container{
+    display: block;
+    background-color: #563693;
+    padding: 10px 10px 10px 10px;
+
+}
+.about-container .profileImg{
+    width: 60%;
+}
+
+.about-container h2{
+    color: #FFBC36;
+}
+
+/*gallery*/
+.portfolio {
     min-height: 100vh;
     padding-bottom: 100px;
 }
-.portfolio .portfolio-container{
+
+.portfolio .controls{
     display: flex;
-    flex-wrap: wrap;
+    align-items: center;
     justify-content: center;
+    flex-wrap: wrap;
+    padding:20px 0;
+    list-style: none;
+
 }
 
-.mask{
-    background-color: #1e1e1e !important;
+.portfolio .controls .buttons{
+    height: 40px;
+    background:#8754E8;
+    color:#fefefe;
+    font-size: 20px;
+    line-height: 10px;
+    cursor: pointer;
+    margin:10px;
+    padding: 10px;
+    box-shadow: 0 3px 5px rgba(0,0,0,.3);
+    text-align: center;
+    border: 5px solid #78C4BC ;
+    border-radius: 5%;
+    font-family: 'Kaisei HarunoUmi'
 }
+
+.portfolio .controls .buttons.active{
+    background-color: lightcoral !important;
+    color: #1a1d20 !important;
+    border-color: #111 !important;
+
+}
+
+.portfolio .controls .buttons:hover{
+    background-color: #a284da  !important;
+    color: #fefefe !important;
+    border-color: #111 !important;
+
+}
+
+.portfolio .portfolio-container{
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.portfolio .portfolio-container .image{
+    width: 350px;
+    overflow: hidden;
+    border: 15px solid #78C4BC;
+    border-radius: 3px;
+    box-shadow: 0 3px 5px rgba(0,0,0,.3);
+    margin: 20px;
+    background-color: #ffbc36;
+    text-decoration: none;
+}
+
+.portfolio-description{
+    padding-left: 5px;
+    font-family: 'Kaisei HarunoUmi';
+}
+
+.portfolio-description h4{
+    text-transform: capitalize;
+    font-size: 24px;
+    margin-left: 10px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.portfolio-description p{
+    margin-left: 5px;
+    color: #1a1d20;
+}
+
+.portfolio-description .portfolio-btn{
+    border: #fff 2px solid;
+    color: #fff;
+    background-color: #78C4BC;
+    border-radius: 5%;
+    padding: 5px 10px 5px 10px;
+    margin: 0px 0px 10px 0px;
+}
+
+.portfolio .portfolio-container .image img{
+    height: 100%;
+    width:100%;
+    object-fit: cover;
+}
+
+.footer-container {
+    background-color: #563693;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    margin-top: 15px;
+}
+
+.footer-container .social-btn{
+    color: #fff !important;
+    background-color: #8754E8;
+    list-style: none;
+    display: inline-flex;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+
 

@@ -1,0 +1,203 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaisei+HarunoUmi:wght@400;500;700&display=swap');
+
+.title h2{
+    border-left: 3px solid #fff !important;
+    padding-left: 10px !important;
+}
+
+main {
+    font-family: 'Kaisei HarunoUmi', serif !important;
+    color: #efefef !important;
+    background-color: #333333 !important;
+}
+
+a{
+    color: #fefefe !important;
+}
+
+/*Categories*/
+
+.section
+{
+padding-top: 50px;
+padding-bottom: 50px;  
+}
+
+.art-category
+
+{
+    float: left;
+    width: 100%;
+    background-color: #ffbc36;
+    border: #563693 10px solid;
+    border-radius: 10px ;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.category-image
+{
+    overflow: hidden;
+    margin-bottom: 0px;
+    position: relative;
+}
+
+.category-image img
+{
+    border-radius: 3px;
+    width: 100%;
+}
+
+.img-responsive
+{
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.art-category-description
+{
+    float:left;
+	width:100%;
+    text-align: left;
+    padding: 20px;
+}
+.art-category-description h4
+{
+    text-transform: capitalize;
+    font-family: 'Kaisei HarunoUmi';
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+.art-category-description p
+{
+    font-family: 'Kaisei HarunoUmi';
+}
+
+.art-categories-btn 
+{
+    border: #fff 2px solid !important;
+    color: #fff !important;
+    background-color: #78C4BC !important;
+    border-radius: 5% !important;
+    padding: 5px 10px 5px 10px;
+    margin: 5px 5px 0px 0px;
+}
+
+.social-btn 
+{   
+color: #fff !important;
+background-color: #563693 !important;
+list-style: none;
+display: inline-flex;
+margin-right: 20px;
+}
+
+/*gallery*/
+
+*{
+    margin: 0; padding: 0;
+    box-sizing: border-box;
+    font-family: 'Kaisei HarunoUmi', sans-serif;
+    transition:all .2s cubic-bezier(.34,1.12,.68,1.31);
+}
+
+.portfolio {
+    min-height: 100vh;
+    background:#563693;
+    padding-bottom: 100px;
+}
+
+.portfolio .controls{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding:20px 0;
+    list-style: none;
+    
+}
+
+.portfolio .controls .buttons{
+    height:40px;
+    background:#8754E8;
+    color:#fefefe;
+    font-size: 20px;
+    line-height: 10px;
+    cursor: pointer;
+    margin:10px;
+    padding: 10px;
+    box-shadow: 0 3px 5px rgba(0,0,0,.3);
+    text-align: center;
+    border: 5px solid #78C4BC ;
+    font-family: 'Kaisei HarunoUmi'
+}
+
+.portfolio .controls .buttons.active{
+    background-color: lightcoral !important;
+    color: #1a1d20 !important;
+    border-color: #111 !important;
+ 
+}
+
+.portfolio .controls .buttons:hover{
+    background-color: #a284da  !important;
+    color: #fefefe !important;
+    border-color: #111 !important;
+    
+}
+
+.portfolio .portfolio-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.portfolio .portfolio-container .image{
+
+    width: 350px;
+    overflow: hidden;
+    border:15px solid #78C4BC;
+    box-shadow: 0 3px 5px rgba(0,0,0,.3);
+    margin: 20px;
+    background-color: #ffbc36;
+    text-decoration: none;
+
+    
+}
+.portfolio .portfolio-container h4
+{
+    text-transform: capitalize;
+    font-family: 'Kaisei HarunoUmi';
+    font-size: 24px;
+    margin-left: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: #1a1d20;
+
+}
+
+.portfolio .portfolio-container p
+{
+    margin-left: 10px;
+    font-family: 'Kaisei HarunoUmi';
+    color: #1a1d20;
+}
+
+.portfolio .portfolio-container .image img{
+    height: 100%;
+    width:100%;
+    object-fit: cover;
+
+}
+
+.portfolio .portfolio-container .image:hover img{
+    transform: scale(1.4);
+}
+
+footer
+{
+    background-color: #333 !important;
+}

@@ -1,6 +1,6 @@
 //View popup ID's for homepage
 
-// Foraged Magic ID
+// Digital ID
 $('#popup_digital').magnificPopup({
     items: [
         {
@@ -15,7 +15,7 @@ $('#popup_digital').magnificPopup({
     type: 'image' // this is a default type
 });
 
-//Godly Beings ID
+// Drawing ID
 $('#popup_drawing').magnificPopup({
     items: [
         {
@@ -30,12 +30,27 @@ $('#popup_drawing').magnificPopup({
     type: 'image' // this is a default type
 });
 
-//Felt Octopie ID
-$('#popup_felt').magnificPopup({
+// Felt  IDs
+////plushy
+$('#popup_felt1').magnificPopup({
     items: [
         {
-            src: '../Resources/images/Felt/feltoctopie.jpg',
-            title: 'Felt Octopus plushies'
+            src: '../Resources/images/Felt/feltOctopi.jpg',
+            title: 'Felt Octopi plushies'
+        },
+
+    ],
+    gallery: {
+        enabled: true
+    },
+    type: 'image' // this is a default type
+});
+////terrarium
+$('#popup_felt2').magnificPopup({
+    items: [
+        {
+            src: '../Resources/images/Felt/mushroomAssortment.jpg',
+            title: 'Felt Terrarium'
         },
 
     ],
@@ -45,7 +60,7 @@ $('#popup_felt').magnificPopup({
     type: 'image' // this is a default type
 });
 
-//Apollo ID
+// Mural ID
 $('#popup_mural').magnificPopup({
     items: [
         {
@@ -60,7 +75,7 @@ $('#popup_mural').magnificPopup({
     type: 'image' // this is a default type
 });
 
-//Cacti desert ID
+// Painting ID
 $('#popup_painting').magnificPopup({
     items: [
         {
@@ -75,7 +90,7 @@ $('#popup_painting').magnificPopup({
     type: 'image' // this is a default type
 });
 
-//Cat pin ID
+// Pin ID
 $('#popup_pin').magnificPopup({
     items: [
         {
@@ -90,11 +105,11 @@ $('#popup_pin').magnificPopup({
     type: 'image' // this is a default type
 });
 
-//Stickers ID
+// Sticker ID
 $('#popup_sticker').magnificPopup({
     items: [
         {
-            src: '../Resources/images/Stickers/stickypile.jpg',
+            src: '../Resources/images/Stickers/stickerPile.jpg',
             title: 'Pile of Cat series stickers'
         },
 
