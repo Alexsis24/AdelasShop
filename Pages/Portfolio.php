@@ -270,7 +270,7 @@ $title = "Portfolio"; ?>
             <div class="image felts">
                 <img src="../Resources/images/SmallerPictures/FeltS/feltOctopiSmall.jpg">
                 <div class="portfolio-description">
-                    <h3>Felt Octopi plush</h3>
+                    <h3>Felt Octopi plushy</h3>
                     <p>Sold</p>
                     <button type="button" class="portfolio-btn" id="felts1"> View</button>
                 </div>
@@ -279,7 +279,7 @@ $title = "Portfolio"; ?>
             <div class="image felts">
                 <img src="../Resources/images/SmallerPictures/FeltS/cactiSmall.jpg">
                 <div class="portfolio-description">
-                    <h3>Cacti terrarium</h3>
+                    <h3>Cat cacti and mushrooms terrarium</h3>
                     <p></p>
                     <button type="button" class="portfolio-btn" id="felts2"> View</button>
                 </div>
@@ -289,7 +289,7 @@ $title = "Portfolio"; ?>
                 <img src="../Resources/images/SmallerPictures/FeltS/mushroomAssortmentSmall1.jpg">
                 <div class="portfolio-description">
                     <h3>Mushroom assortments terrarium</h3>
-                    <p></p>
+                    <p>Sold</p>
                     <button type="button" class="portfolio-btn" id="felts3"> View</button>
                 </div>
             </div>
@@ -304,19 +304,37 @@ $title = "Portfolio"; ?>
             </div>
 
             <div class="image felts">
+                <img src="../Resources/images/SmallerPictures/FeltS/mushroomAssortmentSmall3.jpg">
+                <div class="portfolio-description">
+                    <h3>Mushroom assortment terrarium 3</h3>
+                    <p></p>
+                    <button type="button" class="portfolio-btn" id="felts5"> View</button>
+                </div>
+            </div>
+
+            <div class="image felts">
+                <img src="../Resources/images/SmallerPictures/FeltS/mushroomAssortmentSmall4.jpg">
+                <div class="portfolio-description">
+                    <h3>Mushroom assortment terrarium 4</h3>
+                    <p></p>
+                    <button type="button" class="portfolio-btn" id="felts6"> View</button>
+                </div>
+            </div>
+
+            <div class="image felts">
                 <img src="../Resources/images/SmallerPictures/FeltS/tabletCoverSmall.jpg">
                 <div class="portfolio-description">
                     <h3>Tablet Cover</h3>
-                    <button type="button" class="portfolio-btn" id="felts5"> View</button>
+                    <button type="button" class="portfolio-btn" id="felts7"> View</button>
                 </div>
             </div>
 
             <div class="image felts">
                 <img src="../Resources/images/SmallerPictures/FeltS/feltDollSmall.jpg">
                 <div class="portfolio-description">
-                    <h3>Felt dolls</h3>
-                    <p>Cactus girl and Spacecat</p>
-                    <button type="button" class="portfolio-btn" id="felts6"> View</button>
+                    <h3>Cactus girl and Spacecat</h3>
+                    <p>Felt dolls</p>
+                    <button type="button" class="portfolio-btn" id="felts8"> View</button>
                 </div>
             </div>
 
@@ -324,17 +342,17 @@ $title = "Portfolio"; ?>
                 <img src="../Resources/images/SmallerPictures/FeltS/catWizardSmall.jpg">
                 <div class="portfolio-description">
                     <h3>Big Cat Wizard</h3>
-                    <p>Felt plush</p>
-                    <button type="button" class="portfolio-btn" id="felts7"> View</button>
+                    <p>Felt plushy</p>
+                    <button type="button" class="portfolio-btn" id="felts9"> View</button>
                 </div>
             </div>
 
             <div class="image felts">
-                <img src="../Resources/images/SmallerPictures/FeltS/CowOnesieSmall.jpg">
+                <img src="../Resources/images/SmallerPictures/FeltS/cowOnesieSmall.jpg">
                 <div class="portfolio-description">
                     <h3>Cow kid onesie</h3>
                     <p>Felt clothing</p>
-                    <button type="button" class="portfolio-btn" id="felts8"> View</button>
+                    <button type="button" class="portfolio-btn" id="felts10"> View</button>
                 </div>
             </div>
 
@@ -367,20 +385,11 @@ $title = "Portfolio"; ?>
             </div>
 
             <div class="image murals">
-                <img src="../Resources/images/SmallerPictures/MuralS/legendsOfNorwayPart2Small.jpg">
-                <div class="portfolio-description">
-                    <h3>Legends of Norway 2</h3>
-                    <p>Acrylic mural on wall</p>
-                    <button type="button" class="portfolio-btn" id="murals4"> View</button>
-                </div>
-            </div>
-
-            <div class="image murals">
                 <img src="../Resources/images/SmallerPictures/MuralS/mysticAncientEgyptSmall.jpg">
                 <div class="portfolio-description">
                     <h3>Mystic ancient Egypt</h3>
                     <p>Acrylic mural on wall</p>
-                    <button type="button" class="portfolio-btn" id="murals5"> View</button>
+                    <button type="button" class="portfolio-btn" id="murals4"> View</button>
                 </div>
             </div>
 
@@ -389,7 +398,7 @@ $title = "Portfolio"; ?>
                 <div class="portfolio-description">
                     <h3>Gathering of the Grimm brothers characters</h3>
                     <p>Acrylic mural on wall</p>
-                    <button type="button" class="portfolio-btn" id="murals6"> View</button>
+                    <button type="button" class="portfolio-btn" id="murals5"> View</button>
                 </div>
             </div>
 
@@ -398,17 +407,17 @@ $title = "Portfolio"; ?>
                 <div class="portfolio-description">
                     <h3>Collage of the works of Eduard Viiralt</h3>
                     <p>Acrylic mural on wall</p>
-                    <button type="button" class="portfolio-btn" id="murals7"> View</button>
+                    <button type="button" class="portfolio-btn" id="murals6"> View</button>
                 </div>
             </div>
 
             <div class="image murals">
                 <img src="../Resources/images/SmallerPictures/MuralS/hendrixSmall.jpg">
                 <div class="portfolio-description">
-                    <h3>Jimmy Hendrix</h3>
+                    <h3>Jimmy Hendrix mural</h3>
                     <p>Acrylic mural on wall</p>
                     <p>WIP that was never finished</p>
-                    <button type="button" class="portfolio-btn" id="murals8"> View</button>
+                    <button type="button" class="portfolio-btn" id="murals7"> View</button>
                 </div>
             </div>
 
@@ -418,7 +427,7 @@ $title = "Portfolio"; ?>
                 <div class="portfolio-description">
                     <h3>Foraged Magic</h3>
                     <p>Acrylic painting</p>
-                    <button type="button" class="portfolio-btn" id="paintings"> View</button>
+                    <button type="button" class="portfolio-btn" id="paintings1"> View</button>
                 </div>
             </div>
 
@@ -427,7 +436,7 @@ $title = "Portfolio"; ?>
                 <div class="portfolio-description">
                     <h3>Cacti desert</h3>
                     <p>Acrylic on canvas</p>
-                    <button type="button" class="portfolio-btn" id="paintings"> View</button>
+                    <button type="button" class="portfolio-btn" id="paintings2"> View</button>
                 </div>
             </div>
 
@@ -436,8 +445,8 @@ $title = "Portfolio"; ?>
                 <div class="portfolio-description">
                     <h3>Mushroom forest</h3>
                     <p>Acrylic on canvas</p>
-                    <p>Sold painting</p>
-                    <button type="button" class="portfolio-btn" id="paintings"> View</button>
+                    <p>Sold</p>
+                    <button type="button" class="portfolio-btn" id="paintings3"> View</button>
                 </div>
             </div>
 
@@ -446,7 +455,7 @@ $title = "Portfolio"; ?>
                 <div class="portfolio-description">
                     <h3>Paper plane girl</h3>
                     <p>Acrylic on canvas</p>
-                    <button type="button" class="portfolio-btn" id="paintings"> View</button>
+                    <button type="button" class="portfolio-btn" id="paintings4"> View</button>
                 </div>
             </div>
 
@@ -455,7 +464,7 @@ $title = "Portfolio"; ?>
                 <div class="portfolio-description">
                     <h3>Spacecat 01</h3>
                     <p>Acrylic on canvas</p>
-                    <button type="button" class="portfolio-btn" id="paintings"> View</button>
+                    <button type="button" class="portfolio-btn" id="paintings5"> View</button>
                 </div>
             </div>
 
@@ -509,7 +518,6 @@ $title = "Portfolio"; ?>
                 <img src="../Resources/images/SmallerPictures/PinsS/pinNotWeirdSmall.jpg">
                 <div class="portfolio-description">
                     <h3>Not weird cat series</h3>
-                    <p>Sold</p>
                     <button type="button" class="portfolio-btn" id="pins6"> View</button>
                 </div>
             </div>
@@ -527,7 +535,6 @@ $title = "Portfolio"; ?>
                 <img src="../Resources/images/SmallerPictures/PinsS/pinNotWeirdSmall2.jpg">
                 <div class="portfolio-description">
                     <h3>Not weird cat series</h3>
-                    <p>Sold</p>
                     <button type="button" class="portfolio-btn" id="pins8"> View</button>
                 </div>
             </div>
@@ -536,7 +543,6 @@ $title = "Portfolio"; ?>
                 <img src="../Resources/images/SmallerPictures/PinsS/pinNotWeirdSmall3.jpg">
                 <div class="portfolio-description">
                     <h3>Not weird cat series</h3>
-                    <p>Sold</p>
                     <button type="button" class="portfolio-btn" id="pins9"> View</button>
                 </div>
             </div>
@@ -545,7 +551,6 @@ $title = "Portfolio"; ?>
                 <img src="../Resources/images/SmallerPictures/PinsS/pinNotWeirdSmall4.jpg">
                 <div class="portfolio-description">
                     <h3>Not weird cat series</h3>
-                    <p>Sold</p>
                     <button type="button" class="portfolio-btn" id="pins10"> View</button>
                 </div>
             </div>
@@ -554,7 +559,6 @@ $title = "Portfolio"; ?>
                 <img src="../Resources/images/SmallerPictures/PinsS/pinNotWeirdSmall5.jpg">
                 <div class="portfolio-description">
                     <h3>Not weird cat series</h3>
-                    <p>Sold</p>
                     <button type="button" class="portfolio-btn" id="pins11"> View</button>
                 </div>
             </div>
@@ -563,7 +567,6 @@ $title = "Portfolio"; ?>
                 <img src="../Resources/images/SmallerPictures/PinsS/pinNotWeirdSmall6.jpg">
                 <div class="portfolio-description">
                     <h3>Not weird cat series</h3>
-                    <p>Sold</p>
                     <button type="button" class="portfolio-btn" id="pins12"> View</button>
                 </div>
             </div>
@@ -572,7 +575,6 @@ $title = "Portfolio"; ?>
                 <img src="../Resources/images/SmallerPictures/PinsS/pinNotWeirdSmall7.jpg">
                 <div class="portfolio-description">
                     <h3>Not weird cat series</h3>
-                    <p>Sold</p>
                     <button type="button" class="portfolio-btn" id="pins13"> View</button>
                 </div>
             </div>
@@ -581,7 +583,6 @@ $title = "Portfolio"; ?>
                 <img src="../Resources/images/SmallerPictures/PinsS/pinNotWeirdSmall8.jpg">
                 <div class="portfolio-description">
                     <h3>Not weird cat series</h3>
-                    <p>Sold</p>
                     <button type="button" class="portfolio-btn" id="pins14"> View</button>
                 </div>
             </div>
@@ -590,7 +591,6 @@ $title = "Portfolio"; ?>
                 <img src="../Resources/images/SmallerPictures/PinsS/pinNotWeirdSmall9.jpg">
                 <div class="portfolio-description">
                     <h3>Not weird cat series</h3>
-                    <p>Sold</p>
                     <button type="button" class="portfolio-btn" id="pins15"> View</button>
                 </div>
             </div>
@@ -599,7 +599,6 @@ $title = "Portfolio"; ?>
                 <img src="../Resources/images/SmallerPictures/PinsS/pinNotWeirdSmall10.jpg">
                 <div class="portfolio-description">
                     <h3>Not weird cat series</h3>
-                    <p>Sold</p>
                     <button type="button" class="portfolio-btn" id="pins16"> View</button>
                 </div>
             </div>
@@ -608,7 +607,6 @@ $title = "Portfolio"; ?>
                 <img src="../Resources/images/SmallerPictures/PinsS/pinNotWeirdSmall11.jpg">
                 <div class="portfolio-description">
                     <h3>Not weird cat series</h3>
-                    <p>Sold</p>
                     <button type="button" class="portfolio-btn" id="pins17"> View</button>
                 </div>
             </div>
@@ -617,17 +615,7 @@ $title = "Portfolio"; ?>
                 <img src="../Resources/images/SmallerPictures/PinsS/pinNotWeirdSmall12.jpg">
                 <div class="portfolio-description">
                     <h3>Not weird cat series</h3>
-                    <p>Sold</p>
                     <button type="button" class="portfolio-btn" id="pins18"> View</button>
-                </div>
-            </div>
-
-            <div class="image pins">
-                <img src="../Resources/images/SmallerPictures/PinsS/pinNotWeirdSmall13.jpg">
-                <div class="portfolio-description">
-                    <h3>Not weird cat series</h3>
-                    <p>Sold</p>
-                    <button type="button" class="portfolio-btn" id="pins19"> View</button>
                 </div>
             </div>
 
@@ -840,124 +828,16 @@ $title = "Portfolio"; ?>
             </div>
 
             <div class="image stickers">
-                <img src="../Resources/images/SmallerPictures/StickersS/jesterStickersSmall.jpg">
+                <img src="../Resources/images/SmallerPictures/StickersS/demonStickersSmall1.jpg">
                 <div class="portfolio-description">
-                    <h3>Jester stickers</h3>
+                    <h3>Demon stickers</h3>
                     <p>Sold</p>
                     <button type="button" class="portfolio-btn" id="stickers24"> View</button>
                 </div>
             </div>
 
             <div class="image stickers">
-                <img src="../Resources/images/Stickers/shroomStickers.jpg">
-                <div class="portfolio-description">
-                    <h3>Jester stickers</h3>
-                    <p>Sold</p>
-                    <button type="button" class="portfolio-btn" id="stickers25"> View</button>
-                </div>
-            </div>
-
-            <div class="image stickers">
-                <img src="../Resources/images/Stickers/shroomStickers1.jpg">
-                <div class="portfolio-description">
-                    <h3>Jester stickers</h3>
-                    <p>Sold</p>
-                    <button type="button" class="portfolio-btn" id="stickers25"> View</button>
-                </div>
-            </div>
-
-            <div class="image stickers">
-                <img src="../Resources/images/Stickers/shroomStickers2.jpg">
-                <div class="portfolio-description">
-                    <h3>Jester stickers</h3>
-                    <p>Sold</p>
-                    <button type="button" class="portfolio-btn" id="stickers25"> View</button>
-                </div>
-            </div>
-
-            <div class="image stickers">
-                <img src="../Resources/images/Stickers/shroomStickers3.jpg">
-                <div class="portfolio-description">
-                    <h3>Jester stickers</h3>
-                    <p>Sold</p>
-                    <button type="button" class="portfolio-btn" id="stickers25"> View</button>
-                </div>
-            </div>
-
-            <div class="image stickers">
-                <img src="../Resources/images/Stickers/shroomStickers4.jpg">
-                <div class="portfolio-description">
-                    <h3>Jester stickers</h3>
-                    <p>Sold</p>
-                    <button type="button" class="portfolio-btn" id="stickers25"> View</button>
-                </div>
-            </div>
-
-            <div class="image stickers">
-                <img src="../Resources/images/Stickers/shroomStickers5.jpg">
-                <div class="portfolio-description">
-                    <h3>Jester stickers</h3>
-                    <p>Sold</p>
-                    <button type="button" class="portfolio-btn" id="stickers25"> View</button>
-                </div>
-            </div>
-
-            <div class="image stickers">
-                <img src="../Resources/images/Stickers/shroomStickers6.jpg">
-                <div class="portfolio-description">
-                    <h3>Jester stickers</h3>
-                    <p>Sold</p>
-                    <button type="button" class="portfolio-btn" id="stickers25"> View</button>
-                </div>
-            </div>
-
-            <div class="image stickers">
-                <img src="../Resources/images/Stickers/shroomStickers7.jpg">
-                <div class="portfolio-description">
-                    <h3>Jester stickers</h3>
-                    <p>Sold</p>
-                    <button type="button" class="portfolio-btn" id="stickers25"> View</button>
-                </div>
-            </div>
-
-            <div class="image stickers">
-                <img src="../Resources/images/Stickers/shroomStickers8.jpg">
-                <div class="portfolio-description">
-                    <h3>Jester stickers</h3>
-                    <p>Sold</p>
-                    <button type="button" class="portfolio-btn" id="stickers25"> View</button>
-                </div>
-            </div>
-
-            <div class="image stickers">
-                <img src="../Resources/images/Stickers/shroomStickers9.jpg">
-                <div class="portfolio-description">
-                    <h3>Jester stickers</h3>
-                    <p>Sold</p>
-                    <button type="button" class="portfolio-btn" id="stickers25"> View</button>
-                </div>
-            </div>
-
-            <div class="image stickers">
-                <img src="../Resources/images/Stickers/shroomStickers10.jpg">
-                <div class="portfolio-description">
-                    <h3>Jester stickers</h3>
-                    <p>Sold</p>
-                    <button type="button" class="portfolio-btn" id="stickers25"> View</button>
-                </div>
-            </div>
-
-            <div class="image stickers">
-                <img src="../Resources/images/Stickers/shroomStickers11.jpg">
-                <div class="portfolio-description">
-                    <h3>Jester stickers</h3>
-                    <p>Sold</p>
-                    <button type="button" class="portfolio-btn" id="stickers25"> View</button>
-                </div>
-            </div>
-
-            <div class="image stickers">
-                <img src="../Resources/images/Stickers/shroomStickers12.jpg">
+                <img src="../Resources/images/SmallerPictures/StickersS/jesterStickersSmall.jpg">
                 <div class="portfolio-description">
                     <h3>Jester stickers</h3>
                     <p>Sold</p>

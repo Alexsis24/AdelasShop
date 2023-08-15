@@ -11,7 +11,13 @@
 <!-- View popup ID's for homepage -->
 <script src="../JS/popup.js"></script>
 <!-- View popup carousel ID's for portfolio -->
-<?php require ("PortfolioScripts/Digital.php")?>
+<?php require ("PortfolioScripts/Digital.php");?>
+<?php require ("PortfolioScripts/Drawing.php");?>
+<?php require ("PortfolioScripts/Felt.php");?>
+<?php require ("PortfolioScripts/Mural.php");?>
+<?php require ("PortfolioScripts/Painting.php");?>
+<?php require ("PortfolioScripts/Pin.php");?>
+<?php require ("PortfolioScripts/Sticker.php");?>
 
 
 <!-- portfolio stuff -->
