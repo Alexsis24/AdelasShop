@@ -87,7 +87,7 @@ $title = "Portfolio"; ?>
             <div class="image digital">
                 <img src="../Resources/images/SmallerPictures/DigitalS/coloringBookSmall.jpg">
                 <div class="portfolio-description">
-                    <h3>Linework original art for colouring book 1</h3>
+                    <h3>Line work original art for colouring book 1</h3>
                     <button type="button" class="portfolio-btn" id="digital8"> View</button>
                 </div>
             </div>
@@ -95,7 +95,7 @@ $title = "Portfolio"; ?>
             <div class="image digital">
                 <img src="../Resources/images/SmallerPictures/DigitalS/coloringBookSmall1.jpg">
                 <div class="portfolio-description">
-                    <h3>Linework original art for colouring book 2</h3>
+                    <h3>Line work original art for colouring book 2</h3>
                     <button type="button" class="portfolio-btn" id="digital8"> View</button>
                 </div>
             </div>
@@ -103,7 +103,7 @@ $title = "Portfolio"; ?>
             <div class="image digital">
                 <img src="../Resources/images/SmallerPictures/DigitalS/coloringBookSmall2.jpg">
                 <div class="portfolio-description">
-                    <h3>Linework original art for colouring book 3</h3>
+                    <h3>Line work original art for colouring book 3</h3>
                     <button type="button" class="portfolio-btn" id="digital8"> View</button>
                 </div>
             </div>
@@ -111,7 +111,7 @@ $title = "Portfolio"; ?>
             <div class="image digital">
                 <img src="../Resources/images/SmallerPictures/DigitalS/coloringBookSmall3.jpg">
                 <div class="portfolio-description">
-                    <h3>Linework original art for colouring book 4</h3>
+                    <h3>Line work original art for colouring book 4</h3>
                     <button type="button" class="portfolio-btn" id="digital8"> View</button>
                 </div>
             </div>
@@ -119,7 +119,7 @@ $title = "Portfolio"; ?>
             <div class="image digital">
                 <img src="../Resources/images/SmallerPictures/DigitalS/coloringBookSmall4.jpg">
                 <div class="portfolio-description">
-                    <h3>Linework original art for colouring book 5</h3>
+                    <h3>Line work original art for colouring book 5</h3>
                     <button type="button" class="portfolio-btn" id="digital8"> View</button>
                 </div>
             </div>
@@ -127,7 +127,7 @@ $title = "Portfolio"; ?>
             <div class="image digital">
                 <img src="../Resources/images/SmallerPictures/DigitalS/coloringBookSmall5.jpg">
                 <div class="portfolio-description">
-                    <h3>Linework original art for colouring book 6</h3>
+                    <h3>Line work original art for colouring book 6</h3>
                     <button type="button" class="portfolio-btn" id="digital8"> View</button>
                 </div>
             </div>
@@ -135,7 +135,7 @@ $title = "Portfolio"; ?>
             <div class="image digital">
                 <img src="../Resources/images/SmallerPictures/DigitalS/coloringBookSmall6.jpg">
                 <div class="portfolio-description">
-                    <h3>Linework original art for colouring book 7</h3>
+                    <h3>Line work original art for colouring book 7</h3>
                     <button type="button" class="portfolio-btn" id="digital8"> View</button>
                 </div>
             </div>
@@ -143,7 +143,7 @@ $title = "Portfolio"; ?>
             <div class="image digital">
                 <img src="../Resources/images/SmallerPictures/DigitalS/coloringBookSmall7.jpg">
                 <div class="portfolio-description">
-                    <h3>Linework original art for colouring book 8</h3>
+                    <h3>Line work original art for colouring book 8</h3>
                     <button type="button" class="portfolio-btn" id="digital8"> View</button>
                 </div>
             </div>
@@ -151,7 +151,7 @@ $title = "Portfolio"; ?>
             <div class="image digital">
                 <img src="../Resources/images/SmallerPictures/DigitalS/coloringBookSmall8.jpg">
                 <div class="portfolio-description">
-                    <h3>Linework original art for colouring book 9</h3>
+                    <h3>Line work original art for colouring book 9</h3>
                     <button type="button" class="portfolio-btn" id="digital8"> View</button>
                 </div>
             </div>
@@ -159,7 +159,7 @@ $title = "Portfolio"; ?>
             <div class="image digital">
                 <img src="../Resources/images/SmallerPictures/DigitalS/coloringBookSmall9.jpg">
                 <div class="portfolio-description">
-                    <h3>Linework original art for colouring book 10</h3>
+                    <h3>Line work original art for colouring book 10</h3>
                     <button type="button" class="portfolio-btn" id="digital8"> View</button>
                 </div>
             </div>
