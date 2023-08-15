@@ -21,10 +21,10 @@ $title = "Homepage";?>
                         </div>
                         <div class="art-category-description">
                             <h4>Digital art</h4>
-                            <p>Foraged Magic digital artwork</p>
+                            <h5>Foraged Magic digital artwork</h5>
                             <div class="btn-group">
                                 <button type="button" class="btn art-categories-btn btn-sm" id="popup_digital"> View</button>
-                                <button type="button" class="btn art-categories-btn btn-sm ">More art like this</button>
+                                <!-- <button type="button" class="btn art-categories-btn btn-sm ">More art like this</button> -->
                             </div>
                         </div>
                     </div>
@@ -37,10 +37,10 @@ $title = "Homepage";?>
                         </div>
                         <div class="art-category-description">
                             <h4>Drawings</h4>
-                            <p>Godly Beings drawing with markers</p>
+                            <h5>Godly Beings drawing with markers</h5>
                             <div class="btn-group">
                                 <button type="button" class="btn art-categories-btn btn-sm" id="popup_drawing"> View</button>
-                                <button type="button" class="btn art-categories-btn btn-sm">More art like this</button>
+                                <!-- <button type="button" class="btn art-categories-btn btn-sm ">More art like this</button> -->
                             </div>
                         </div>
                     </div>
@@ -53,10 +53,10 @@ $title = "Homepage";?>
                         </div>
                         <div class="art-category-description">
                             <h4>Felt plushies</h4>
-                            <p>Felt Octopi plushies</p>
+                            <h5>Felt Octopi plushies</h5>
                             <div class="btn-group">
                                 <button type="button" class="btn art-categories-btn btn-sm" id="popup_felt1">View</button>
-                                <button type="button" class="btn art-categories-btn btn-sm">More art like this</button>
+                                <!-- <button type="button" class="btn art-categories-btn btn-sm ">More art like this</button> -->
                             </div>
                         </div>
                     </div>
@@ -69,10 +69,10 @@ $title = "Homepage";?>
                         </div>
                         <div class="art-category-description">
                             <h4>Felt decoration</h4>
-                            <p>Felt Terrarium</p>
+                            <h5>Felt Terrarium</h5>
                             <div class="btn-group">
                                 <button type="button" class="btn art-categories-btn btn-sm" id="popup_felt2">View</button>
-                                <button type="button" class="btn art-categories-btn btn-sm">More art like this</button>
+                                <!-- <button type="button" class="btn art-categories-btn btn-sm ">More art like this</button> -->
                             </div>
                         </div>
                     </div>
@@ -85,10 +85,10 @@ $title = "Homepage";?>
                         </div>
                         <div class="art-category-description">
                             <h4>Murals</h4>
-                            <p>Apollo mural</p>
+                            <h5>Apollo mural</h5>
                             <div class="btn-group">
                                 <button type="button" class="btn art-categories-btn btn-sm" id="popup_mural">View</button>
-                                <button type="button" class="btn art-categories-btn btn-sm">More art like this</button>
+                                <!-- <button type="button" class="btn art-categories-btn btn-sm ">More art like this</button> -->
                             </div>
                         </div>
                     </div>
@@ -101,10 +101,10 @@ $title = "Homepage";?>
                         </div>
                         <div class="art-category-description">
                             <h4>Paintings</h4>
-                            <p>Cacti desert acrylic painting</p>
+                            <h5>Cacti desert acrylic painting</h5>
                             <div class="btn-group">
                                 <button type="button" class="btn art-categories-btn btn-sm" id="popup_painting">View</button>
-                                <button type="button" class="btn art-categories-btn btn-sm">More art like this</button>
+                                <!-- <button type="button" class="btn art-categories-btn btn-sm ">More art like this</button> -->
                             </div>
                         </div>
                     </div>
@@ -117,10 +117,10 @@ $title = "Homepage";?>
                         </div>
                         <div class="art-category-description">
                             <h4>Pins</h4>
-                            <p>Clay pin of a cat</p>
+                            <h5>Clay pin of a cat</h5>
                             <div class="btn-group">
                                 <button type="button" class="btn art-categories-btn btn-sm" id="popup_pin">View</button>
-                                <button type="button" class="btn art-categories-btn btn-sm">More art like this</button>
+                                <!-- <button type="button" class="btn art-categories-btn btn-sm ">More art like this</button> -->
                             </div>
                         </div>
                     </div>
@@ -133,18 +133,20 @@ $title = "Homepage";?>
                         </div>
                         <div class="art-category-description">
                             <h4>Stickers</h4>
-                            <p>Pile of Cat series stickers</p>
+                            <h5>Pile of Cat series stickers</h5>
                             <div class="btn-group">
                                 <button type="button" class="btn art-categories-btn btn-sm" id="popup_sticker">View</button>
-                                <button type="button" class="btn art-categories-btn btn-sm">More art like this</button>
+                                <!-- <button type="button" class="btn art-categories-btn btn-sm ">More art like this</button> -->
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+        <section class="about-me">
         <!-- About me section -->
         <?php include("HomeSections/AboutMe.php") ?>
+        </section>
     </main>
 <?php
 require("Footer.php");
