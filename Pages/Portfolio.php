@@ -518,6 +518,7 @@ $title = "Portfolio"; ?>
                 <img src="../Resources/images/SmallerPictures/PinsS/pinNotWeirdSmall.jpg">
                 <div class="portfolio-description">
                     <h3>Not weird cat series</h3>
+                    <p>Sold</p>
                     <button type="button" class="portfolio-btn" id="pins6"> View</button>
                 </div>
             </div>
