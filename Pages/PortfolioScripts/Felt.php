@@ -20,11 +20,11 @@
             },
             {
                 src: '../../Resources/images/Felt/feltBigOctopus.jpg',
-                title: 'Octopi big red plushy'
+                title: 'Octopus big red plushy'
             },
             {
                 src: '../../Resources/images/Felt/feltBigOctopus1.jpg',
-                title: 'Octopi big red plushy'
+                title: 'Octopus big red plushy'
             },
         ],
         gallery: {
@@ -44,15 +44,15 @@
             },
             {
                 src: '../../Resources/images/Felt/cacti1.jpg',
-                title: 'Behind'
+                title: 'View from behind'
             },
             {
                 src: '../../Resources/images/Felt/cacti2.jpg',
-                title: 'Cacti'
+                title: 'Close-up view'
             },
             {
                 src: '../../Resources/images/Felt/cacti3.jpg',
-                title: 'Cat cactus'
+                title: 'Cat cactus close-up'
             },
             {
                 src: '../../Resources/images/Felt/cacti4.jpg',
@@ -76,27 +76,27 @@
             },
             {
                 src: '../../Resources/images/Felt/cactiAssortment1.jpg',
-                title: 'Cactus terrarium'
+                title: 'Side view'
             },
             {
                 src: '../../Resources/images/Felt/cactiAssortment2.jpg',
-                title: 'Cactus terrarium'
+                title: 'Close-up of the top'
             },
             {
                 src: '../../Resources/images/Felt/cactiAssortment3.jpg',
-                title: 'Cactus terrarium'
+                title: 'Close-up of the top'
             },
             {
                 src: '../../Resources/images/Felt/cactiAssortment4.jpg',
-                title: 'Cactus terrarium'
+                title: 'Side view'
             },
             {
                 src: '../../Resources/images/Felt/cactiAssortment5.jpg',
-                title: 'Cactus terrarium'
+                title: 'Close-up of the side'
             },
             {
                 src: '../../Resources/images/Felt/cactiAssortment6.jpg',
-                title: 'Cactus terrarium'
+                title: 'Close-up of the side'
             },
         ],
         gallery: {
@@ -136,11 +136,11 @@
             },
             {
                 src: '../../Resources/images/Felt/mushroomAssortment21.jpg',
-                title: 'Mushroom assortment terrarium 2'
+                title: 'View from the side'
             },
             {
                 src: '../../Resources/images/Felt/mushroomAssortment22.jpg',
-                title: 'Mushroom assortment terrarium 2'
+                title: 'Top view'
             },
         ],
         gallery: {
@@ -160,11 +160,11 @@
             },
             {
                 src: '../../Resources/images/Felt/mushroomAssortment31.jpg',
-                title: 'Mushroom assortment terrarium 3'
+                title: 'View from behind'
             },
             {
                 src: '../../Resources/images/Felt/mushroomAssortment32.jpg',
-                title: 'Mushroom assortment terrarium 3'
+                title: 'Close-up view'
             },
             {
                 src: '../../Resources/images/Felt/mushroomAssortment33.jpg',
@@ -244,7 +244,7 @@
         items: [
             {
                 src: '../../Resources/images/Felt/feltDolls.jpg',
-                title: 'Cactus girl and Spacecat'
+                title: 'Cactus girl and Spacecat 01'
             },
         ],
         gallery: {

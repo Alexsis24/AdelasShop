@@ -4,59 +4,59 @@
         items: [
             {
                 src: '../../Resources/images/Stickers/shroomStickers13.jpg',
-                title: 'mushroom'
+                title: 'All mushrooms'
             },
             {
                 src: '../../Resources/images/Stickers/shroomStickers.jpg',
-                title: 'mushroom'
+                title: 'Mushroom 1'
             },
             {
                 src: '../../Resources/images/Stickers/shroomStickers1.jpg',
-                title: 'mushroom'
+                title: 'Mushroom 2'
             },
             {
                 src: '../../Resources/images/Stickers/shroomStickers2.jpg',
-                title: 'mushroom'
+                title: 'Mushroom 3'
             },
             {
                 src: '../../Resources/images/Stickers/shroomStickers3.jpg',
-                title: 'mushroom'
+                title: 'Mushroom 4'
             },
             {
                 src: '../../Resources/images/Stickers/shroomStickers4.jpg',
-                title: 'mushroom'
+                title: 'Mushroom 5'
             },
             {
                 src: '../../Resources/images/Stickers/shroomStickers5.jpg',
-                title: 'mushroom'
+                title: 'Mushroom 6'
             },
             {
                 src: '../../Resources/images/Stickers/shroomStickers6.jpg',
-                title: 'mushroom'
+                title: 'Mushroom 7'
             },
             {
                 src: '../../Resources/images/Stickers/shroomStickers7.jpg',
-                title: 'mushroom'
+                title: 'Mushroom 8'
             },
             {
                 src: '../../Resources/images/Stickers/shroomStickers8.jpg',
-                title: 'mushroom'
+                title: 'Mushroom 9'
             },
             {
                 src: '../../Resources/images/Stickers/shroomStickers9.jpg',
-                title: 'mushroom'
+                title: 'Mushroom 10'
             },
             {
                 src: '../../Resources/images/Stickers/shroomStickers10.jpg',
-                title: 'mushroom'
+                title: 'Mushroom 11'
             },
             {
                 src: '../../Resources/images/Stickers/shroomStickers11.jpg',
-                title: 'mushroom'
+                title: 'Mushroom 12'
             },
             {
                 src: '../../Resources/images/Stickers/shroomStickers12.jpg',
-                title: 'mushroom'
+                title: 'Mushroom 13'
             },
         ],
         gallery: {
@@ -156,7 +156,7 @@
             },
             {
                 src: '../../Resources/images/Stickers/catStickers10.jpg',
-                title: 'Cat cactus puple'
+                title: 'Cat cactus purple'
             },
             {
                 src: '../../Resources/images/Stickers/catStickers11.jpg',
@@ -184,7 +184,7 @@
             },
             {
                 src: '../../Resources/images/Stickers/catStickers14.jpg',
-                title: 'Cat cactus 2 puple'
+                title: 'Cat cactus 2 purple'
             },
             {
                 src: '../../Resources/images/Stickers/catStickers15.jpg',
@@ -212,7 +212,7 @@
             },
             {
                 src: '../../Resources/images/Stickers/catStickers18.jpg',
-                title: 'Cat cactus 3 puple'
+                title: 'Cat cactus 3 purple'
             },
             {
                 src: '../../Resources/images/Stickers/catStickers19.jpg',
@@ -240,7 +240,7 @@
             },
             {
                 src: '../../Resources/images/Stickers/catStickers22.jpg',
-                title: 'Cat cactus 4 puple'
+                title: 'Cat cactus 4 purple'
             },
             {
                 src: '../../Resources/images/Stickers/catStickers23.jpg',

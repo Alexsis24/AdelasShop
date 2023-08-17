@@ -87,7 +87,7 @@
         items: [
             {
                 src: '../../Resources/images/Digital/shrooms.png',
-                title: ''
+                title: 'Magic Mushroom study poster'
             },
 
         ],
