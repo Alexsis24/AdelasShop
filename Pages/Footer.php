@@ -1,6 +1,6 @@
 <!-- JSON scripts -->
 
-<!-- custom js -->
+<!-- Isotope js -->
 <script src = "../JS/script.js"></script>
 <!-- Jquery js -->
 <script src="../JS/jquery-3.6.4.js"></script>

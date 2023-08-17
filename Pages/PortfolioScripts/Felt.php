@@ -71,6 +71,46 @@
     $('#felts3').magnificPopup({
         items: [
             {
+                src: '../../Resources/images/Felt/cactiAssortment.png',
+                title: 'Cactus terrarium'
+            },
+            {
+                src: '../../Resources/images/Felt/cactiAssortment1.jpg',
+                title: 'Cactus terrarium'
+            },
+            {
+                src: '../../Resources/images/Felt/cactiAssortment2.jpg',
+                title: 'Cactus terrarium'
+            },
+            {
+                src: '../../Resources/images/Felt/cactiAssortment3.jpg',
+                title: 'Cactus terrarium'
+            },
+            {
+                src: '../../Resources/images/Felt/cactiAssortment4.jpg',
+                title: 'Cactus terrarium'
+            },
+            {
+                src: '../../Resources/images/Felt/cactiAssortment5.jpg',
+                title: 'Cactus terrarium'
+            },
+            {
+                src: '../../Resources/images/Felt/cactiAssortment6.jpg',
+                title: 'Cactus terrarium'
+            },
+        ],
+        gallery: {
+            enabled: true
+        },
+        type: 'image' // this is a default type
+    });
+</script>
+
+<script>
+
+    $('#felts4').magnificPopup({
+        items: [
+            {
                 src: '../../Resources/images/Felt/mushroomAssortment.jpg',
                 title: 'Mushroom assortment terrarium'
             },
@@ -88,7 +128,7 @@
 
 <script>
 
-    $('#felts4').magnificPopup({
+    $('#felts5').magnificPopup({
         items: [
             {
                 src: '../../Resources/images/Felt/mushroomAssortment20.jpg',
@@ -102,10 +142,6 @@
                 src: '../../Resources/images/Felt/mushroomAssortment22.jpg',
                 title: 'Mushroom assortment terrarium 2'
             },
-            {
-                src: '../../Resources/images/Felt/mushroomAssortment23.jpg',
-                title: 'Mushroom assortment terrarium 2'
-            },
         ],
         gallery: {
             enabled: true
@@ -116,7 +152,7 @@
 
 <script>
 
-    $('#felts5').magnificPopup({
+    $('#felts6').magnificPopup({
         items: [
             {
                 src: '../../Resources/images/Felt/mushroomAssortment30.jpg',
@@ -144,7 +180,7 @@
 
 <script>
 
-    $('#felts6').magnificPopup({
+    $('#felts7').magnificPopup({
         items: [
             {
                 src: '../../Resources/images/Felt/mushroomAssortment40.jpg',
@@ -152,22 +188,18 @@
             },
             {
                 src: '../../Resources/images/Felt/mushroomAssortment41.jpg',
-                title: 'View from behind'
-            },
-            {
-                src: '../../Resources/images/Felt/mushroomAssortment42.jpg',
                 title: 'Close-up to vines'
             },
             {
-                src: '../../Resources/images/Felt/mushroomAssortment43.jpg',
+                src: '../../Resources/images/Felt/mushroomAssortment42.jpg',
                 title: 'Close-up to big shroomies'
             },
             {
-                src: '../../Resources/images/Felt/mushroomAssortment44.jpg',
+                src: '../../Resources/images/Felt/mushroomAssortment43.jpg',
                 title: 'Close-up to base shroomies'
             },
             {
-                src: '../../Resources/images/Felt/mushroomAssortment45.jpg',
+                src: '../../Resources/images/Felt/mushroomAssortment44.jpg',
                 title: 'Close-up to base shroomies'
             },
         ],
@@ -180,7 +212,7 @@
 
 <script>
 
-    $('#felts7').magnificPopup({
+    $('#felts8').magnificPopup({
         items: [
             {
                 src: '../../Resources/images/Felt/tabletCover.jpg',
@@ -208,7 +240,7 @@
 
 <script>
 
-    $('#felts8').magnificPopup({
+    $('#felts9').magnificPopup({
         items: [
             {
                 src: '../../Resources/images/Felt/feltDolls.jpg',
@@ -224,7 +256,7 @@
 
 <script>
 
-    $('#felts9').magnificPopup({
+    $('#felts10').magnificPopup({
         items: [
             {
                 src: '../../Resources/images/Felt/catWizard.jpg',
@@ -256,7 +288,7 @@
 
 <script>
 
-    $('#felts10').magnificPopup({
+    $('#felts11').magnificPopup({
         items: [
             {
                 src: '../../Resources/images/Felt/cowOnesie',

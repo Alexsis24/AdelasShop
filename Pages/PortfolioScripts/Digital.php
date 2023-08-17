@@ -189,64 +189,9 @@
         type: 'image' // this is a default type
     });
 </script>
-<script>
-    ////
-    $('#digital8').magnificPopup({
-        items: [
-            {
-                src: '../../Resources/images/Digital/coloringBook.jpg',
-                title: 'Linework original art for colouring book 1'
-            },
-            {
-                src: '../../Resources/images/Digital/coloringBook1.jpg',
-                title: 'Linework original art for colouring book 2'
-            },
-            {
-                src: '../../Resources/images/Digital/coloringBook2.jpg',
-                title: 'Linework original art for colouring book 3'
-            },
-            {
-                src: '../../Resources/images/Digital/coloringBook3.jpg',
-                title: 'Linework original art for colouring book 4'
-            },
-            {
-                src: '../../Resources/images/Digital/coloringBook4.jpg',
-                title: 'Linework original art for colouring book 5'
-            },
-            {
-                src: '../../Resources/images/Digital/coloringBook5.jpg',
-                title: 'Linework original art for colouring book 6'
-            },
-            {
-                src: '../../Resources/images/Digital/coloringBook6.jpg',
-                title: 'Linework original art for colouring book 7'
-            },
-            {
-                src: '../../Resources/images/Digital/coloringBook7.jpg',
-                title: 'Linework original art for colouring book 8'
-            },
-            {
-                src: '../../Resources/images/Digital/coloringBook8.jpg',
-                title: 'Linework original art for colouring book 9'
-            },
-            {
-                src: '../../Resources/images/Digital/coloringBook9.jpg',
-                title: 'Linework original art for colouring book 10'
-            },
-            {
-                src: '../../Resources/images/Digital/coloringBook10.jpg',
-                title: 'Linework original art for colouring book 11'
-            },
-        ],
-        gallery: {
-            enabled: true
-        },
-        type: 'image' // this is a default type
-    });
-</script>
 
 <script>
-    $('#digital9').magnificPopup({
+    $('#digital8').magnificPopup({
         items: [
             {
                 src: '../../Resources/images/Digital/OCCom.png',
@@ -262,7 +207,7 @@
 </script>
 
 <script>
-    $('#digital10').magnificPopup({
+    $('#digital9').magnificPopup({
         items: [
             {
                 src: '../../Resources/images/Digital/catSticker.png',
@@ -278,7 +223,7 @@
 </script>
 
 <script>
-    $('#digital11').magnificPopup({
+    $('#digital10').magnificPopup({
         items: [
             {
                 src: '../../Resources/images/Digital/catSticker1.png',
@@ -294,7 +239,7 @@
 </script>
 
 <script>
-    $('#digital12').magnificPopup({
+    $('#digital11').magnificPopup({
         items: [
             {
                 src: '../../Resources/images/Digital/catSticker2.png',
@@ -324,7 +269,7 @@
 
 
 <script>
-    $('#digital13').magnificPopup({
+    $('#digital12').magnificPopup({
         items: [
             {
                 src: '../../Resources/images/Digital/catSticker6.png',
@@ -340,7 +285,7 @@
 </script>
 
 <script>
-    $('#digital14').magnificPopup({
+    $('#digital13').magnificPopup({
         items: [
             {
                 src: '../../Resources/images/Digital/catSticker7.png',
@@ -364,7 +309,7 @@
 </script>
 
 <script>
-    $('#digital15').magnificPopup({
+    $('#digital14').magnificPopup({
         items: [
             {
                 src: '../../Resources/images/Digital/catSticker11.png',
@@ -389,7 +334,7 @@
 </script>
 
 <script>
-    $('#digital16').magnificPopup({
+    $('#digital15').magnificPopup({
         items: [
             {
                 src: '../../Resources/images/Digital/catSticker15.png',
@@ -413,7 +358,7 @@
 </script>
 
 <script>
-    $('#digital17').magnificPopup({
+    $('#digital16').magnificPopup({
         items: [
             {
                 src: '../../Resources/images/Digital/catSkull.png',
@@ -428,6 +373,172 @@
                 title: 'Stickers origin artwork'
             },
 
+        ],
+        gallery: {
+            enabled: true
+        },
+        type: 'image' // this is a default type
+    });
+</script>
+
+<script>
+    $('#digital17').magnificPopup({
+        items: [
+            {
+                src: '../../Resources/images/Digital/coloringBook.jpg',
+                title: 'Line work original art for colouring book 1'
+            },
+        ],
+        gallery: {
+            enabled: true
+        },
+        type: 'image' // this is a default type
+    });
+</script>
+
+<script>
+    $('#digital18').magnificPopup({
+        items: [
+            {
+                src: '../../Resources/images/Digital/coloringBook1.jpg',
+                title: 'Line work original art for colouring book 2'
+            },
+        ],
+        gallery: {
+            enabled: true
+        },
+        type: 'image' // this is a default type
+    });
+</script>
+
+<script>
+    $('#digital19').magnificPopup({
+        items: [
+            {
+                src: '../../Resources/images/Digital/coloringBook2.jpg',
+                title: 'Line work original art for colouring book 3'
+            },
+        ],
+        gallery: {
+            enabled: true
+        },
+        type: 'image' // this is a default type
+    });
+</script>
+
+<script>
+    $('#digital20').magnificPopup({
+        items: [
+            {
+                src: '../../Resources/images/Digital/coloringBook3.jpg',
+                title: 'Line work original art for colouring book 4'
+            },
+        ],
+        gallery: {
+            enabled: true
+        },
+        type: 'image' // this is a default type
+    });
+</script>
+
+<script>
+    $('#digital21').magnificPopup({
+        items: [
+            {
+                src: '../../Resources/images/Digital/coloringBook4.jpg',
+                title: 'Line work original art for colouring book 5'
+            },
+        ],
+        gallery: {
+            enabled: true
+        },
+        type: 'image' // this is a default type
+    });
+</script>
+
+<script>
+    $('#digital22').magnificPopup({
+        items: [
+            {
+                src: '../../Resources/images/Digital/coloringBook5.jpg',
+                title: 'Line work original art for colouring book 6'
+            },
+        ],
+        gallery: {
+            enabled: true
+        },
+        type: 'image' // this is a default type
+    });
+</script>
+
+<script>
+    $('#digital23').magnificPopup({
+        items: [
+            {
+                src: '../../Resources/images/Digital/coloringBook6.jpg',
+                title: 'Line work original art for colouring book 7'
+            },
+        ],
+        gallery: {
+            enabled: true
+        },
+        type: 'image' // this is a default type
+    });
+</script>
+
+<script>
+    $('#digital24').magnificPopup({
+        items: [
+            {
+                src: '../../Resources/images/Digital/coloringBook7.jpg',
+                title: 'Line work original art for colouring book 8'
+            },
+        ],
+        gallery: {
+            enabled: true
+        },
+        type: 'image' // this is a default type
+    });
+</script>
+
+<script>
+    $('#digital25').magnificPopup({
+        items: [
+            {
+                src: '../../Resources/images/Digital/coloringBook8.jpg',
+                title: 'Line work original art for colouring book 9'
+            },
+        ],
+        gallery: {
+            enabled: true
+        },
+        type: 'image' // this is a default type
+    });
+</script>
+
+<script>
+    $('#digital26').magnificPopup({
+        items: [
+            {
+                src: '../../Resources/images/Digital/coloringBook9.jpg',
+                title: 'Line work original art for colouring book 10'
+            },
+        ],
+        gallery: {
+            enabled: true
+        },
+        type: 'image' // this is a default type
+    });
+</script>
+
+<script>
+    ////
+    $('#digital27').magnificPopup({
+        items: [
+            {
+                src: '../../Resources/images/Digital/coloringBook10.png',
+                title: 'Line work original art for colouring book 11'
+            },
         ],
         gallery: {
             enabled: true
