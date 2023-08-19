@@ -126,7 +126,7 @@ $title = "Portfolio"; ?>
             </div>
 
             <div class="image digital">
-                <img src="../Resources/images/Digital/catSticker8.png">
+                <img src="../Resources/images/Digital/catSticker8.jpg">
                 <div class="portfolio-description">
                     <h3>Cat stickers concept redraw</h3>
                     <button type="button" class="portfolio-btn" id="digital13"> View</button>
@@ -134,7 +134,7 @@ $title = "Portfolio"; ?>
             </div>
 
             <div class="image digital">
-                <img src="../Resources/images/Digital/catSticker12.png">
+                <img src="../Resources/images/Digital/catSticker12.jpg">
                 <div class="portfolio-description">
                     <h3>Cat stickers concept redraw</h3>
                     <button type="button" class="portfolio-btn" id="digital14"> View</button>
@@ -142,7 +142,7 @@ $title = "Portfolio"; ?>
             </div>
 
             <div class="image digital">
-                <img src="../Resources/images/Digital/catSticker17.png">
+                <img src="../Resources/images/Digital/catSticker17.jpg">
                 <div class="portfolio-description">
                     <h3>Cat stickers concept redraw</h3>
                     <button type="button" class="portfolio-btn" id="digital15"> View</button>

@@ -35,7 +35,7 @@
             </div>
             <div class="col-md-6">
                 <p class="text-end">All art belongs to: Adela Kurvits</p>
-                <p class="text-end">Created by: Eva-Kristina Vesiallik</p>
+                <p class="text-end">Website made by: Eva-Kristina Vesiallik</p>
             </div>
         </div>
     </div>

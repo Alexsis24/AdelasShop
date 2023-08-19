@@ -288,15 +288,15 @@
     $('#digital13').magnificPopup({
         items: [
             {
-                src: '../../Resources/images/Digital/catSticker7.png',
+                src: '../../Resources/images/Digital/catSticker7.jpg',
                 title: 'Stickers origin artwork'
             },
             {
-                src: '../../Resources/images/Digital/catSticker8.png',
+                src: '../../Resources/images/Digital/catSticker8.jpg',
                 title: 'Stickers origin artwork'
             },
             {
-                src: '../../Resources/images/Digital/catSticker9.png',
+                src: '../../Resources/images/Digital/catSticker9.jpg',
                 title: 'Stickers origin artwork'
             },
 
@@ -312,15 +312,15 @@
     $('#digital14').magnificPopup({
         items: [
             {
-                src: '../../Resources/images/Digital/catSticker11.png',
+                src: '../../Resources/images/Digital/catSticker11.jpg',
                 title: 'Stickers origin artwork'
             },
             {
-                src: '../../Resources/images/Digital/catSticker12.png',
+                src: '../../Resources/images/Digital/catSticker12.jpg',
                 title: 'Stickers origin artwork'
             },
             {
-                src: '../../Resources/images/Digital/catSticker13.png',
+                src: '../../Resources/images/Digital/catSticker13.jpg',
                 title: 'Stickers origin artwork'
             },
 
@@ -337,15 +337,15 @@
     $('#digital15').magnificPopup({
         items: [
             {
-                src: '../../Resources/images/Digital/catSticker15.png',
+                src: '../../Resources/images/Digital/catSticker15.jpg',
                 title: 'Stickers origin artwork'
             },
             {
-                src: '../../Resources/images/Digital/catSticker16.png',
+                src: '../../Resources/images/Digital/catSticker16.jpg',
                 title: 'Stickers origin artwork'
             },
             {
-                src: '../../Resources/images/Digital/catSticker17.png',
+                src: '../../Resources/images/Digital/catSticker17.jpg',
                 title: 'Stickers origin artwork'
             },
 

@@ -11,7 +11,6 @@
     <!--MainStyle-->
     <link rel="stylesheet" href="../Style/headerStyle.css">
     <link rel="stylesheet" href="../Style/MainStyle.css">
-    <link rel="stylesheet" href="../Style/SizingStyle.css">
     <!--Magnific Popup-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.css" integrity="sha512-WEQNv9d3+sqyHjrqUZobDhFARZDko2wpWdfcpv44lsypsSuMO0kHGd3MQ8rrsBn/Qa39VojphdU6CMkpJUmDVw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
@@ -23,11 +22,11 @@
 <!--<header class="fixed-top">-->
     <img class="profileImg" alt="ProfileImg" src="../Resources/images/Header/headerIcon.png">
     <p>Adela's art</p>
-    <nav class="navbar">
+    <nav class="navbar navigation-buttons">
         <div class="nav">
             <ul>
                 <li><a href="Home.php">Home</a></li>
-                <li><a href="">Commission me</a></li>
+                <li><a href="Commission.php">Commission me</a></li>
                 <li><a href="Portfolio.php">Portfolio</a></li>
             </ul>
         </div>
