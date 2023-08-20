@@ -319,4 +319,8 @@ a{
     padding-right: 5px;
 }
 
+footer a{
+    text-decoration: none;
+}
+
 

@@ -19,7 +19,6 @@
 </head>
 <body>
 <header class="sticky-sm-top sticky-md-top sticky-lg-top sticky-xl-top">
-<!--<header class="fixed-top">-->
     <img class="profileImg" alt="ProfileImg" src="../Resources/images/Header/headerIcon.png">
     <p>Adela's art</p>
     <nav class="navbar navigation-buttons">
